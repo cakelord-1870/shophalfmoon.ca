@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/singing-bowls.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:07:00-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706289724</id>
+    <published>2021-05-19T13:07:00-07:00</published>
+    <updated>2021-05-19T13:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/4-hand-hammered-brass-singing-bowl"/>
+    <title>4&quot; Hand Hammered Brass Singing Bowl</title>
+    <s:type>Unclassified</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/4-hand-hammered-singingbowl---_1000x1200_2000x_c9540734-b626-401b-a214-97a9ae2c0eb5.jpg?v=1621455176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Unclassified<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Hand Hammered Brass Singing Bowl 4" is a beautiful piece for your meditation space or living room. This bowl fits in the palm of your hand so you can take it with you to practice mindfulness and sound healing anywhere. The bowl produces a resonance that helps calm the mind and relax the body. Singing bowls can be used for meditation, sound therapy, yoga, or any time you wish to ground body and mind.</p><p dir="ltr">Beautifully hand-hammered in Nepal, there is social programming available for the makers of these singing bowls and their communities. Programs include scholarships for girls, daily meditation at work, access to bi-annual check-ups, and salary savings programs.</p><p dir="ltr">The paper box the singing bowl is packaged in is made from Lokta Paper, a traditional Nepali paper, made from the inner bark of lokta bushes. Historically, this handmade paper has been used for religious and government texts.</p><p dir="ltr">The felt cushion ring is included and handmade with <strong>100% mulesing-free New Zealand wool</strong>. The ring protects furniture that can be easily scratched and can hold the bowl during use.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Convenient size</p></li>
+<li dir="ltr"><p dir="ltr">Hand-hammered in Nepal</p></li>
+<li dir="ltr"><p dir="ltr">Social programming for the makers and their communities</p></li>
+<li dir="ltr"><p dir="ltr">Mindfully created packaging and cushion</p></li>
+<li dir="ltr"><p dir="ltr">Great tool for sound healing, meditation, or yoga</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Singing bowl: 4" x 4" x 2.7"</p></li>
+<li dir="ltr"><p dir="ltr">Mallet: 5" x 7/8" x 7/8"</p></li>
+<li dir="ltr"><p dir="ltr">Felt Ring: 4" x 3/4" x 3/4"</p></li>
+<li dir="ltr"><p dir="ltr">Bowl: 100% brass</p></li>
+<li dir="ltr"><p dir="ltr">Mallet: wood &amp; suede</p></li>
+<li dir="ltr"><p dir="ltr">Ring: 100% mulesing-free New Zealand wool</p></li>
+<li dir="ltr"><p dir="ltr">Paper box is made from Lokta Paper: a traditional Nepali paper, made from the inner bark of lokta bushes</p></li>
+<li dir="ltr"><p dir="ltr">Made in Nepal</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Do not use for eating or drinking</p></li>
+<li dir="ltr"><p dir="ltr">Clean with a damp cloth</p></li>
+<li dir="ltr"><p dir="ltr">Avoid scratching for quality sound</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Singing Bowls</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706289724</id>
+      <title>Brass</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku>20113-0001</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+  </entry>
+</feed>

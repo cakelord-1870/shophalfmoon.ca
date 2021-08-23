@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/sandbags.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:35-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709206076</id>
+    <published>2021-05-19T13:06:35-07:00</published>
+    <updated>2021-05-19T13:06:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/yoga-sandbag-10lb-empty"/>
+    <title>Yoga Sandbag 10lb (Empty)</title>
+    <s:type>Yoga Tools</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/obAEWaSQ_2000x_1945c6af-98f9-45bb-9012-ea6529757e4b.jpg?v=1626306099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Yoga Tools<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Yoga Sandbag provides the weight to press down and apply pressure on the body during your asanas. Similar to the touch or adjustment of a teacher, this subtle pressure allows the body to find subtly deeper depths and greater sensations of grounding and relaxation as you move through your various shapes.</p><p dir="ltr">Please note that the yoga sandbag comes empty and we recommend that you use a funnel to fill it with sand.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Sturdy carry handle </p></li>
+<li dir="ltr"><p dir="ltr">For deep release, increased flexibility, and added strength</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8" x 14" (20 cm x 36 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Outer Cover: 100% cotton twill</p></li>
+<li dir="ltr"><p dir="ltr">Inner Liner: zippered, coated polyester</p></li>
+<li dir="ltr"><p dir="ltr">Made in India</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove filling</p></li>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Avoid dropping or throwing sandbags as this can split/wear out the seams</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Although our sandbags are sold individually, we recommend purchasing two for symmetry to use evenly on your arms, legs, or shoulders.</p></li>
+<li dir="ltr"><p dir="ltr">All sandbags are sold and shipped empty (without sand).</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandbags</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709206076</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>912192</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709206076</id>
+      <title>Ink</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>10984-0007</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+</feed>

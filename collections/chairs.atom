@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/chairs.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-08-05T00:05:26-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6617821478972</id>
+    <published>2021-08-05T00:05:26-07:00</published>
+    <updated>2021-08-05T00:05:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/vegan-leather-meditation-chair"/>
+    <title>Vegan Leather Meditation Chair</title>
+    <s:type>Unclassified</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/VeganLeatherMeditationChairDune0381.jpg?v=1628141081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Unclassified<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prefer some extra back support in meditation? This Vegan Leather Meditation Chair—a new take on an old favourite—gives you the structure you need to sit longer and more comfortably. Relax deeply into the cushioned seat and discover the right posture for you with five different seating angles. Add in a durable vegan leather finish and light, easy-to-carry frame, and you’ve got the perfect indoor/outdoor meditation seat for home or the studio, the park or the beach.<br><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr">Meditation chair with 5 angles of adjustable back support</li>
+<li dir="ltr">Comfortable padded seat</li>
+<li dir="ltr">Durable vegan leather cover</li>
+<li dir="ltr">Lightweight and portable</li>
+</ul><p> </p><p><strong>SPECS</strong></p><ul>
+<li>39" x 18" x 3" (98 x 46 x 7cm)</li>
+<li>4.4 lbs</li>
+<li>Cover: PU; Frame: steel; foam padding</li>
+<li>Made in China</li>
+</ul><p dir="ltr"> </p><p dir="ltr"><strong>PRODUCT CARE </strong></p><ul><li dir="ltr">Use wet cloth to wipe clean. Lay flat and allow to air dry out of direct sunlight.</li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meditation Chairs</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6617821478972</id>
+      <title>Dune</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>20199-0001</s:sku>
+      <s:grams>1996</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708223036</id>
+    <published>2021-05-19T13:06:43-07:00</published>
+    <updated>2021-05-19T13:06:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/meditation-chair"/>
+    <title>Meditation Chair</title>
+    <s:type>Meditation Chairs</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/f714873ae193b3d2e15b68e3d08cff15_2000x_2b1fd103-9cd3-496f-b7a7-0704df28c6e0.jpg?v=1621455031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Meditation Chairs<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Meditation Chair can be used indoors or outdoors, at home, or at the studio. With five different seating angles and a comfy cushion, you can find the support you need. The removable, washable cover is easy to care for, and durable, while the lightweight frame means it can be easily and conveniently transported.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Adjusts to 5 positions</p></li>
+<li dir="ltr"><p dir="ltr">Comfy padded seat</p></li>
+<li dir="ltr"><p dir="ltr">Lightweight &amp; portable</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Open chair: 23" x 15" x 23"</p></li>
+<li dir="ltr"><p dir="ltr">Closed chair: 23" x 15" x 5"</p></li>
+<li dir="ltr"><p dir="ltr">Seating area: 12" x 15" x 2.25"</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Cotton; Frame: Steel; Cushion: 100% PU foam</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spot clean with a damp cloth</p></li>
+<li dir="ltr"><p dir="ltr">If necessary, remove the cover, machine wash in cold water, and hang to dry</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meditation Chairs</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708223036</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>914900</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

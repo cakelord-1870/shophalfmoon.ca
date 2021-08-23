@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/zabutons.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:55-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706912316</id>
+    <published>2021-05-19T13:06:55-07:00</published>
+    <updated>2021-05-19T13:06:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-zabuton"/>
+    <title>Essential Cotton Zabuton</title>
+    <s:type>Unclassified</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/zab_2000x_e3a6d4ee-fe2a-4daa-9198-7b000dac9b9f.jpg?v=1621455108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Unclassified<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Zabuton is the perfect size and shape to support your seat, legs, and feet. This soft platform lifts you off the floor and provides extra cushioning for the feet and ankles to maintain a comfortable seated position for longer periods of time. Use it under your meditation cushion or use it on its own.</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Cushions the feet and ankles</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">24" x 30" x 4" (61 cm x 76 cm x 10 cm)</p></li>
+<li dir="ltr"><p dir="ltr">6.8 lbs (3.0 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% cotton, 3% polyester </p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash the cover in a cold water washer setting</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry </p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Zabutons</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706912316</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11112-0001</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706912316</id>
+      <title>Ink</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11112-0008</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706912316</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11112-0009</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707993660</id>
+    <published>2021-05-19T13:06:47-07:00</published>
+    <updated>2021-05-19T13:06:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-zabuton"/>
+    <title>Linen Zabuton</title>
+    <s:type>Unclassified</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.Zabuton.NaturalLinen-web_2000x_e7e38e60-0ba4-47e2-b6da-2f0947f49152.jpg?v=1621455042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Unclassified<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Zabuton is the perfect size and shape to support your seat, legs, and feet. This soft platform lifts you off the floor and provides extra cushioning for the feet and ankles to maintain a comfortable seated position for longer periods of time. Use it under your meditation cushion or use it on its own.</p><p dir="ltr">This product is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibers, make it much more earth-friendly than alternative fibers in the market. Bonus: Our linens not only have a soft hand feel and cooling properties but also are biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Cushions the feet and ankles</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">24" x 30" x 4" (61 cm x 76 cm x 10 cm)</p></li>
+<li dir="ltr"><p dir="ltr">6.8 lbs (3.0 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% linen </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% cotton, 3% polyester </p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash the cover in a cold water washer setting</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry </p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Zabutons</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707993660</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>13882-0019</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707993660</id>
+      <title>Fig Linen</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>13882-0022</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+  </entry>
+</feed>

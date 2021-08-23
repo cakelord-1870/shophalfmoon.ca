@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/joy-a-toes.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:54-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707043388</id>
+    <published>2021-05-19T13:06:54-07:00</published>
+    <updated>2021-05-19T13:06:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/joy-a-toes"/>
+    <title>Joy-a-Toes</title>
+    <s:type>Joy-a-Toes</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020d276d0959f0bc0b517af7231c9d0_grande_2000x_9321a92e-8575-4844-a944-c9c6f87fd7c7.jpg?v=1621455102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Joy-a-Toes<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Joy-a-Toes revitalize your tired, hardworking feet. Made from a soft, comfortable gel, Joy-a-Toes are the most versatile patented toe spreaders available.</p><p dir="ltr">SIZING: Joy-A-Toes are available in Small and Large, but it's not about your foot size. It's about how much space you have between your toes. Those new to using toe spreaders like Joy-A-Toes should choose the small size and after a few months of use, could then move to a larger size if desired.</p><p dir="ltr">HOW TO USE: Start out wearing your Joy-A-Toes 5-20 minutes at a time, 3 times per day. As your feet open, increase how long and how frequently you wear your Joy-A-Toes Relax and rejuvenate feet that are tired, achy, or tight</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Relax and rejuvenate feet that are tired, achy, or tight</p></li>
+<li dir="ltr"><p dir="ltr">Help your feet recover from wearing high heels</p></li>
+<li dir="ltr"><p dir="ltr">Stimulate circulation</p></li>
+<li dir="ltr"><p dir="ltr">Increase flexibility and strength</p></li>
+<li dir="ltr"><p dir="ltr">Open up energy channels to revitalize your entire body</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Made of a comfortable gel material</p></li>
+<li dir="ltr"><p dir="ltr">Designed in Vancouver, BC, Canada</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Wash your Joy-a-Toes with hand or dish soap and hot water</p></li>
+<li dir="ltr"><p dir="ltr">Air dry before storage</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Joy-a-Toes</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707043388</id>
+      <title>Small</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>913107</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707043388</id>
+      <title>Large</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>913108</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+</feed>

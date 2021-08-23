@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/straps.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:07:00-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706322492</id>
+    <published>2021-05-19T13:07:00-07:00</published>
+    <updated>2021-05-19T13:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/6-organic-cotton-loop-strap"/>
+    <title>6&apos; Organic Cotton Loop Strap</title>
+    <s:type>Loop Yoga Strap</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/701687bc61658d4c9de354eebeb5b3ac_2000x_9fc48ca5-a06f-4f85-bb3a-3825737ea612.jpg?v=1627058699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Loop Yoga Strap<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 6' Organic Cotton Loop Strap was designed with a fixed loop on one end for easy and quick use during your yoga practice. Deepen your stretches, gain easier access into binds, and extend your reach with this multi-posture tool. </p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Fixed loop end</p></li>
+<li dir="ltr"><p dir="ltr">Soft cotton hand feel</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">1.5" x 6’ (3.8 cm x 183 cm)</p></li>
+<li dir="ltr"><p dir="ltr">100% organic cotton webbing with brushed nickel slide buckle</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul><li dir="ltr"><p dir="ltr">Hand wash in cold water, hang to dry</p></li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6&apos; Loop Straps</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706322492</id>
+      <title>Natural</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>17002-0003</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706322492</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>17002-0001</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706322492</id>
+      <title>Ink Weave</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>17002-0006</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709828668</id>
+    <published>2021-05-19T13:06:31-07:00</published>
+    <updated>2021-05-19T13:06:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/8-organic-cotton-loop-strap"/>
+    <title>8&apos; Organic Cotton Loop Strap</title>
+    <s:type>Loop Yoga Strap</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.8ftLoopStrap.Natural_2000x_323c0427-5b23-42e5-9766-2c84a601551f.jpg?v=1621454905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Loop Yoga Strap<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 8' Organic Cotton Loop Strap was designed with a fixed loop on one end for easy and quick use during your yoga practice. Deepen your stretches, gain easier access into binds, and extend your reach with this multi-posture tool. </p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Fixed loop end</p></li>
+<li dir="ltr"><p dir="ltr">Soft cotton hand feel</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">1.5" x 8’ (3.8 cm x 244 cm)</p></li>
+<li dir="ltr"><p dir="ltr">100% organic cotton webbing with brushed nickel slide buckle</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul><li dir="ltr"><p dir="ltr">Hand wash in cold water, hang to dry</p></li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8&apos; Loop Straps</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709828668</id>
+      <title>Natural</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>913630</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709828668</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>13857-0001</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709828668</id>
+      <title>Ink Weave</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>13857-0005</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709828668</id>
+      <title>Plum Weave</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>13857-0006</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709926972</id>
+    <published>2021-05-19T13:06:30-07:00</published>
+    <updated>2021-05-19T13:06:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/6-essential-studio-strap"/>
+    <title>6&apos; Essential Studio Strap</title>
+    <s:type>Essential Studio Strap</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/1134c0697204f209015d7cb381b976dd_2000x_d8afa003-fdd2-40e7-8e2a-db6787ec2895.jpg?v=1621454892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Essential Studio Strap<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 6' Essential Studio Strap is a multi-purpose tool that allows you to find new depths and accessible alignment. Acting as an extension to your arms and reach, this strap is a yoga staple for every yogi, both beginner and beyond. Available in a variety of colours with an easy cinch buckle allowing you to adjust the strap with ease.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul><li dir="ltr"><p dir="ltr">Lightweight &amp; durable</p></li></ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">1.5” x 6’ (3.8 cm x 183 cm)</p></li>
+<li dir="ltr"><p dir="ltr">80% polyester, 20% cotton webbing with plastic slide buckle</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul><li dir="ltr"><p dir="ltr">Hand wash in cold water, hang to dry</p></li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6&apos; Essential Straps</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709926972</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>10042-0003</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709926972</id>
+      <title>Ink</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>10042-0009</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709926972</id>
+      <title>Plum</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>10042-0010</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709861436</id>
+    <published>2021-05-19T13:06:30-07:00</published>
+    <updated>2021-05-19T13:06:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/8-essential-studio-strap"/>
+    <title>8&apos; Essential Studio Strap</title>
+    <s:type>Essential Studio Strap</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/1134c0697204f209015d7cb381b976dd_2000x_c4452996-59b8-40cf-9283-6ba3ff5210f9.jpg?v=1627059108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Essential Studio Strap<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 8' Essential Studio Strap is a multi-purpose tool that allows you to find new depths and accessible alignment. Acting as an extension to your arms and reach, this strap is a yoga staple for every yogi, both beginner and beyond. Available in a variety of colours with an easy cinch buckle allowing you to adjust the strap with ease.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul><li dir="ltr"><p dir="ltr">Lightweight &amp; durable</p></li></ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">1.5” x 8’ (3.8 cm x 244 cm)</p></li>
+<li dir="ltr"><p dir="ltr">80% polyester, 20% cotton webbing with plastic slide buckle</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul><li dir="ltr"><p dir="ltr">Hand wash in cold water, hang to dry</p></li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8&apos; Essential Straps</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709861436</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>10043-0003</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709861436</id>
+      <title>Plum</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>10043-0009</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+</feed>

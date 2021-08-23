@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/rectangular-bolsters.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:56-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706814012</id>
+    <published>2021-05-19T13:06:56-07:00</published>
+    <updated>2021-05-19T13:06:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-rectangular-bolster"/>
+    <title>Essential Cotton Rectangular Bolster</title>
+    <s:type>Rectangular 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Rectangular-Bolster_Charcoal-upright-handle__1000x1200_2000x_f84106b6-2aa5-438c-9cb3-8c7d54040003.jpg?v=1627596886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rectangular 24&quot;<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Rectangular Bolster promotes gentle chest opening, makes a great back bending prop, and provides a moderate lift for forward bends and legs up the wall. Its generous size creates a stable, comfortable surface—so stretch out, lie back, and relax!</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 24" (13 cm x 25 cm x 61 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Cotton </p></li>
+<li><p>Casing: 100% </p></li>
+<li><p>Cotton Filling: 96% Cotton 3% Polyester 1% Foam fill</p></li>
+<li><p>Handcrafted just outside Vancouver, BC, Canada<br><br></p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Rectangular</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706814012</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>915320</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706814012</id>
+      <title>Ink</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>12132-0009</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706814012</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>12132-0010</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707403836</id>
+    <published>2021-05-19T13:06:51-07:00</published>
+    <updated>2021-05-19T13:06:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-rectangular-bolster"/>
+    <title>Limited Edition Rectangular Bolster</title>
+    <s:type>Rectangular 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/RectangularBolster24Fresco0335_c8b909eb-282b-487a-b7e8-cf0b555dfd2e.jpg?v=1628141023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rectangular 24&quot;<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Rectangular Bolster promotes gentle chest opening, makes a great back bending prop, and provides a moderate lift for forward bends and legs up the wall. Its generous size creates a stable, comfortable surface—so stretch out, lie back, and relax!</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection, a limited-time offering showcasing Halfmoon's creative vision for the season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home, or zen space. Reinvigorate your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 24" (13 cm x 25 cm x 61 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Cotton </p></li>
+<li><p>Casing: 100% Cotton </p></li>
+<li><p>Filling: 96% Cotton 3% Polyester 1% Foam fill</p></li>
+<li><p>Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Rectangular</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707403836</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11352-0036</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707403836</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11352-0035</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707829820</id>
+    <published>2021-05-19T13:06:48-07:00</published>
+    <updated>2021-05-19T13:06:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-rectangular-bolster"/>
+    <title>Linen Rectangular Bolster</title>
+    <s:type>Rectangular 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/RectangularNatural_1000x1200_handle_2000x_c4183a3f-41d4-40b5-a50a-dd7c542335a7.jpg?v=1621455052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rectangular 24&quot;<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Rectangular Bolster promotes gentle chest opening, makes a great back bending prop, and provides a moderate lift for forward bends and legs up the wall. Its generous size creates a stable, comfortable surface—so stretch out, lie back, and relax!</p><p dir="ltr">This product is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibres make it much more earth-friendly than alternative fibres in the market. Bonus: Our linens not only have a soft hand feel and cooling properties but also are biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 24" (13 cm x 25 cm x 61 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Linen</p></li>
+<li><p>Casing: 100% Cotton </p></li>
+<li><p>Filling: 96% Cotton, 3% Polyester, 1% Foam fill</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Rectangular</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707829820</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11352-0018</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707829820</id>
+      <title>Fig Linen</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>20153-0001</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

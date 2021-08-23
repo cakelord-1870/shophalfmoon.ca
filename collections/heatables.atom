@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/heatables.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-08-05T00:05:28-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6617821577276</id>
+    <published>2021-08-05T00:05:28-07:00</published>
+    <updated>2021-08-05T00:05:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-silk-eye-pillow"/>
+    <title>Limited Edition Silk Eye Pillow</title>
+    <s:type>Unclassified</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/SilkEyePillowInkWash0408.jpg?v=1628141086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Unclassified<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Silk Eye Pillow was designed to calm, relax and destress. The luxuriously soft silk cover and weighted wheatberry fill relaxes the face and facial muscles by applying gentle and soft pressure to the eyes. The perfect wellness tool during restorative yoga, before bed, after screen time, or while travelling. The lavender scent elevates the sensory experience of your relaxation session. Use at room temperature or heat up in the microwave for an added warm touch and invigoration of the lavender aroma.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Relieve eye strain</p></li>
+<li dir="ltr"><p dir="ltr">Relax facial tension</p></li>
+<li dir="ltr"><p dir="ltr">Soothe dry eyes</p></li>
+<li dir="ltr"><p dir="ltr">Calming lavender scent</p></li>
+<li dir="ltr"><p dir="ltr">Heatable for the ultimate relaxation (remove silk cover while heating)</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8” x 4.5”</p></li>
+<li dir="ltr"><p dir="ltr">0.65 lbs</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% silk</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 99% wheatberry 1% lavender</p></li>
+<li dir="ltr"><p dir="ltr">Assembled just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+<li dir="ltr"><p dir="ltr">Tip: To re-invigorate the sensational lavender scent, scrunch pillow in your hands.</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS:</strong><br>Microwave: Remove cover &amp; set aside. Lay pillow as flat as possible on turntable and heat in 30-second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover &amp; set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New</s:tag>
+    <s:tag>Silk Eye Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6617821577276</id>
+      <title>Ink Wash</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>20047-0013</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6617823936572</id>
+    <published>2021-08-05T00:00:02-07:00</published>
+    <updated>2021-08-05T00:00:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/crystal-collection-silk-eye-pillow-1"/>
+    <title>Crystal Collection Silk Eye Pillow</title>
+    <s:type>Silk</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/CrystalCollectionSilkEyePillowMoonstone0429_ea12e629-d06f-4198-9e93-d7a4a2f744b8.jpg?v=1628141092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Silk<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Infuse your savasana with the healing power of crystals. The Crystal Collection Silk Eye Pillow is pure bliss during restorative yoga, before bed, or after screen time. Organic wheat berry, natural gemstones and a lavender fill is naturally cooling, soothes dry eyes, and relaxes the mind and body.</p>
+<p dir="ltr">Choose from Moonstone, Citrine</p>
+<p dir="ltr"><meta charset="utf-8"><span>Moonstone is connected to feminine energy—it’s thought to help enhance intuition, creativity, and emotional balance.</span></p>
+<p dir="ltr"><span><meta charset="utf-8">Citrine is a crystal associated with confidence, prosperity, and success. It’s thought to help promote self-expression, joy, and motivation.</span></p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>FEATURES</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Natural gemstones inside</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Soft silk cover</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Custom dyed and designed for Halfmoon</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Relieve eye strain</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Relax facial tension</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Soothe dry eyes</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Calming lavender scent</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Heatable for the ultimate relaxation (remove cover while heating) </p>
+</li>
+</ul>
+<p dir="ltr"><br></p>
+<p dir="ltr"><strong>SPECS</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">8" x 5" (20.3 cm x 12.7 cm)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Cover: 100% silk, sewn in China</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Casing: 100% organic cotton, sewn in India</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Filling: 1% lavender (France),  organic wheat berry (Canada), natural gemstones (Brazil)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Assembled at Halfmoon just outside Vancouver, BC, Canada</p>
+</li>
+</ul>
+<p dir="ltr"><br></p>
+<p dir="ltr"><strong>PRODUCT CARE</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Wash cover only</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Remove the cover, hand wash in cold water and hang to dry</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Do not bleach</p>
+</li>
+</ul>
+<p dir="ltr"><br></p>
+<p dir="ltr"><strong>HEATING INSTRUCTIONS</strong></p>
+<p dir="ltr">Microwave: Remove cover and set aside. Lay the pillow as flat as possible on the turntable and heat in 30-second intervals until you reach your desired temperature. Shake the pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing it on the neck or face. Do not overheat.</p>
+<p dir="ltr">Oven: Remove cover and set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystals</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6617823936572</id>
+      <title>Moonstone</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0006</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6617823936572</id>
+      <title>Citrine</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0007</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706584636</id>
+    <published>2021-05-19T13:06:58-07:00</published>
+    <updated>2021-05-19T13:06:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/crystal-collection-silk-eye-pillow"/>
+    <title>Crystal Collection Silk Eye Pillow</title>
+    <s:type>Silk</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.SilkCrystalCollection.RoseQuartz-flat-web_2000x_7099e98d-4911-46d5-88c4-628b090c5a72.jpg?v=1621455147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Silk<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Infuse your savasana with the healing power of crystals. The Crystal Collection Silk Eye Pillow is pure bliss during restorative yoga, before bed, or after screen time. Organic wheat berry, natural gemstones and a lavender fill is naturally cooling, soothes dry eyes, and relaxes the mind and body.</p><p dir="ltr">Choose from Rose Quartz, Amethyst, Jade, Clear Quartz, or Tiger’s Eye.</p><p dir="ltr">Rose Quartz is a love stone. Whether it be love for one's self, the ability to love another, or unconditional love as a whole. Deeply connected to the heart chakra, Rose Quartz is said to open and purify the heart which ultimately leads to love, friendship, and inner peace.</p><p dir="ltr">Amethyst is known to be a protective stone linked to the crown chakra. Removing negative thoughts and purifying the mind to rid one of Amethyst darkness when used during meditation and rest.</p><p dir="ltr">Jade is known to enhance energy, courage, and bravery. The deep green tone connects and resonates with the heart chakra, the energy center. Looking to avoid dips in energy or declines in your courageous spirit? Jade is the gemstone for you.</p><p dir="ltr">Clear Quartz serves as an amplifier of your intentions. Known for having a “memory”, when the clear quartz crystal is embraced during meditation it holds on to and amplifies what you manifest. Helping cleanse and navigate headspace, this crystal holds properties that clears the mind for these new and growing intentions.</p><p dir="ltr">Tiger’s Eye is known for its innate power. Relinquish self-doubt and dream big with this powerful stone. Use this pillow to help gain perspective Tiger's Eye and cultivate focus during your savasana or any daily reset.</p><p data-empty="true"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Natural gemstones inside</p></li>
+<li dir="ltr"><p dir="ltr">Soft silk cover</p></li>
+<li dir="ltr"><p dir="ltr">Custom dyed and designed for Halfmoon</p></li>
+<li dir="ltr"><p dir="ltr">Relieve eye strain</p></li>
+<li dir="ltr"><p dir="ltr">Relax facial tension</p></li>
+<li dir="ltr"><p dir="ltr">Soothe dry eyes</p></li>
+<li dir="ltr"><p dir="ltr">Calming lavender scent</p></li>
+<li dir="ltr"><p dir="ltr">Heatable for the ultimate relaxation (remove cover while heating) </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8" x 5" (20.3 cm x 12.7 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% silk, sewn in China</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% organic cotton, sewn in India</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 1% lavender (France),  organic wheat berry (Canada), natural gemstones (Brazil)</p></li>
+<li dir="ltr"><p dir="ltr">Assembled at Halfmoon just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Wash cover only</p></li>
+<li dir="ltr"><p dir="ltr">Remove the cover, hand wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS</strong></p><p dir="ltr">Microwave: Remove cover and set aside. Lay the pillow as flat as possible on the turntable and heat in 30-second intervals until you reach your desired temperature. Shake the pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing it on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover and set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystals</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706584636</id>
+      <title>Rose Quartz</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0001</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706584636</id>
+      <title>Amethyst</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0002</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706584636</id>
+      <title>Tigers Eye</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0003</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706584636</id>
+      <title>Clear Quartz</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0004</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706584636</id>
+      <title>Jade</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>20145-0005</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708681788</id>
+    <published>2021-05-19T13:06:40-07:00</published>
+    <updated>2021-05-19T13:06:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/organic-cotton-eye-pillow-unscented"/>
+    <title>Organic Cotton Eye Pillow (Unscented)</title>
+    <s:type>Cotton</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/CottonEyePillow_Meadow__1000x1200_2000x_db8894c6-e839-4f52-a462-1bfeb6f99766.png?v=1626308220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cotton<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Organic Cotton Eye Pillow is simple, beautiful, and calming. The soft cotton cover and weighted wheatberry fill relaxes the face and facial muscles by applying gentle and soft pressure to the eyes. The perfect wellness tool during restorative yoga, before bed, after screen time, or while travelling.  Use at room temperature or heat up in the microwave for an added warm touch.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Soft organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Relieve eye strain</p></li>
+<li dir="ltr"><p dir="ltr">Relax facial tension</p></li>
+<li dir="ltr"><p dir="ltr">Soothe dry eyes</p></li>
+<li dir="ltr"><p dir="ltr">Heatable for the ultimate relaxation (remove cover while heating)</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8" x 5" (20.3 cm x 12.7 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Eye pillow cover: 100% cotton, sewn in Canada</p></li>
+<li dir="ltr"><p dir="ltr">Eye pillow casing: 100% cotton, sewn in India</p></li>
+<li dir="ltr"><p dir="ltr">Filling: organic wheat berry (Canada)</p></li>
+<li dir="ltr"><p dir="ltr">Assembled just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS:</strong><br>Microwave: Remove cover and set aside. Lay pillow as flat as possible on turntable and heat in 30-second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover &amp; set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton Eye Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708681788</id>
+      <title>Meadow</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>12922-0049</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708878396</id>
+    <published>2021-05-19T13:06:38-07:00</published>
+    <updated>2021-05-19T13:06:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/organic-cotton-eye-pillow-lavender"/>
+    <title>Organic Cotton Eye Pillow (Lavender)</title>
+    <s:type>Cotton</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/CottonEyePillow_Meadow__1000x1200_2000x_b04415e9-2755-48da-8ade-6f36ff6d4e23.png?v=1626308157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cotton<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Organic Cotton Eye Pillow Lavender is simple, beautiful, and calming. The soft cotton cover and weighted wheatberry fill relaxes the face and facial muscles by applying gentle and soft pressure to the eyes. The perfect wellness tool during restorative yoga, before bed, after screen time, or while travelling. The lavender scent elevates the sensory experience of your relaxation session. Use at room temperature or heat up in the microwave for an added warm touch and invigoration of the lavender aroma.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Soft organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Relieve eye strain</p></li>
+<li dir="ltr"><p dir="ltr">Relax facial tension</p></li>
+<li dir="ltr"><p dir="ltr">Soothe dry eyes</p></li>
+<li dir="ltr"><p dir="ltr">Heatable for the ultimate relaxation (remove cover while heating)</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8" x 5" (20.3 cm x 12.7 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Eye pillow cover: 100% cotton, sewn in Canada</p></li>
+<li dir="ltr"><p dir="ltr">Eye pillow casing: 100% cotton, sewn in India</p></li>
+<li dir="ltr"><p dir="ltr">Filling: organic wheat berry (Canada)</p></li>
+<li dir="ltr"><p dir="ltr">Assembled just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS:</strong><br>Microwave: Remove cover and set aside. Lay pillow as flat as possible on turntable and heat in 30-second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover &amp; set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton Eye Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708878396</id>
+      <title>Meadow</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>12922-0050</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709107772</id>
+    <published>2021-05-19T13:06:36-07:00</published>
+    <updated>2021-05-19T13:06:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/silk-eye-pillow"/>
+    <title>Silk Eye Pillow</title>
+    <s:type>Silk</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/SilkEyePillow_FossilGrey__1000x1200_2000x_d2024d72-53b0-4c08-949d-f04b3ce5156b.png?v=1621454956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Silk<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Silk Eye Pillow was designed to calm, relax and destress. The luxuriously soft silk cover and weighted wheatberry fill relaxes the face and facial muscles by applying gentle and soft pressure to the eyes. The perfect wellness tool during restorative yoga, before bed, after screen time, or while travelling. The lavender scent elevates the sensory experience of your relaxation session. Use at room temperature or heat up in the microwave for an added warm touch and invigoration of the lavender aroma.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Relieve eye strain</p></li>
+<li dir="ltr"><p dir="ltr">Relax facial tension</p></li>
+<li dir="ltr"><p dir="ltr">Soothe dry eyes</p></li>
+<li dir="ltr"><p dir="ltr">Calming lavender scent</p></li>
+<li dir="ltr"><p dir="ltr">Heatable for the ultimate relaxation (remove silk cover while heating)</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8” x 4.5”</p></li>
+<li dir="ltr"><p dir="ltr">0.65 lbs</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% silk</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 99% wheatberry 1% lavender</p></li>
+<li dir="ltr"><p dir="ltr">Assembled just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+<li dir="ltr"><p dir="ltr">Tip: To re-invigorate the sensational lavender scent, scrunch pillow in your hands.</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS:</strong><br>Microwave: Remove cover &amp; set aside. Lay pillow as flat as possible on turntable and heat in 30-second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover &amp; set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Silk Eye Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709107772</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>13929-0025</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709107772</id>
+      <title>Rose Clay</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>13929-0023</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709369916</id>
+    <published>2021-05-19T13:06:34-07:00</published>
+    <updated>2021-05-19T13:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/organic-cotton-hot-cold-therapy-pillow"/>
+    <title>Organic Cotton Hot + Cold Therapy Pillow</title>
+    <s:type>Therapy Pillows</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/TherapyPillow_Meadow__100x1200_2000x_1d66d6a9-d169-4e53-b29a-1f0e206a446e.png?v=1626307130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Therapy Pillows<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Organic Cotton Hot + Cold Therapy Pillow allows you to enjoy the healing benefits of an all-natural heated or cooled therapeutic tool. Heat it to soothe and relax tension in your neck, shoulders, or any muscle group. Freeze or refrigerate it to use as a cold compress. A welcome relief for sore muscles, cramps or night sweats with the addition of lavender to enhance your relaxation experience. Our carefully selected organic cotton selection is both beautiful and soft to the touch.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Lavender scented for additional relaxation properties</p></li>
+<li dir="ltr"><p dir="ltr">Organic cotton cover</p></li>
+<li dir="ltr"><p dir="ltr">Natural hot or cold relief</p></li>
+<li dir="ltr"><p dir="ltr">Shape adjusts for ideal comfort</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">6" x 18" (15 cm x 46 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Organic</p></li>
+<li dir="ltr"><p dir="ltr">Cotton Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Cotton Filling: 100% wheatberry</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover</p></li>
+<li dir="ltr"><p dir="ltr">Wash in cold water</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS: </strong></p><p dir="ltr">Microwave: Remove cover and set aside. Lay pillow as flat as possible on turntable and heat in 30-second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover and set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Therapy Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709369916</id>
+      <title>Meadow</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>14006-0015</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709500988</id>
+    <published>2021-05-19T13:06:33-07:00</published>
+    <updated>2021-05-19T13:06:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-eye-pillow"/>
+    <title>Linen Eye Pillow</title>
+    <s:type>Linen</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/LinenEyePillow_Sand_Ivory__1000x1200_2000x_15966a91-d3e0-42c3-b748-cfd921906dd2.png?v=1621454928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Linen<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Linen Eye Pillow is a beautiful and natural eye pillow option. Made of natural fibres from the stalk of a flax plant, linen is highly durable, hypoallergenic, and breathable fabric that gets softer with time and washing. The wheatberry-filled Linen Eye Pillow creates a subtle pressure on the eyes when placed on the face during restorative yoga, before bed, after screen time, or while travelling. Use at room temperature or heat up in the microwave for an added warm touch and invigoration of the lavender aroma. </p><p dir="ltr"><strong> </strong></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Natural fibre linen</p></li>
+<li dir="ltr"><p dir="ltr">Relieve eye strain</p></li>
+<li dir="ltr"><p dir="ltr">Relax facial tension</p></li>
+<li dir="ltr"><p dir="ltr">Soothe dry eyes</p></li>
+<li dir="ltr"><p dir="ltr">Calming lavender scent</p></li>
+<li dir="ltr"><p dir="ltr">Heatable for the ultimate relaxation (remove cover while heating)</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8" x 4.5" (20.3 cm x 11.5 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 55% linen 45% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 99% wheatberry 1% lavender</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover</p></li>
+<li dir="ltr"><p dir="ltr">Machine wash cold and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul><li dir="ltr"><p dir="ltr">Tip: To re-invigorate the sensational lavender scent, scrunch pillow in your hands</p></li></ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS</strong></p><p dir="ltr">Microwave: Remove cover &amp; set aside. Lay pillow as flat as possible on turntable and heat in 30 second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover and set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Eye Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709500988</id>
+      <title>Sand/Ivory, Lavender</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>20109-0007</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709500988</id>
+      <title>Surf/Ivory, Lavender</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>20109-0006</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709468220</id>
+    <published>2021-05-19T13:06:33-07:00</published>
+    <updated>2021-05-19T13:06:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-hot-cold-therapy-pillow"/>
+    <title>Linen Hot + Cold Therapy Pillow</title>
+    <s:type>Therapy Pillows</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/NaturalLinen_1000x1200_2000x_139bdd86-1731-45ce-a379-3df9c025e3c1.jpg?v=1621454931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Therapy Pillows<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Linen Hot + Cold Therapy Pillow allows you to enjoy the healing benefits of an all-natural heated or cooled therapeutic tool. Heat it to soothe and relax tension in your neck, shoulders, or any muscle group. Freeze or refrigerate it to use as a cold compress. A welcome relief for sore muscles, cramps, or night sweats with the addition of lavender to enhance your relaxation experience. Linen is a highly durable, hypoallergenic, breathable natural fibre made from the stalk of the flax plant, making it the perfect fabric for this highly eco-functional therapy tool.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Lavender scented for additional relaxation properties</p></li>
+<li dir="ltr"><p dir="ltr">Natural-fiber linen cover</p></li>
+<li dir="ltr"><p dir="ltr">Natural hot or cold relief</p></li>
+<li dir="ltr"><p dir="ltr">Shape adjusts for ideal comfort</p></li>
+<li dir="ltr"><p dir="ltr">Removable, washable cover</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">6" x 18" (15 cm x 46 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 55% linen 45% </p></li>
+<li dir="ltr"><p dir="ltr">Cotton Casing: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Cotton Filling: 99% wholegrain buckwheat 1% lavender</p></li>
+<li dir="ltr"><p dir="ltr">Assembled just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wash pillow insert</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HEATING INSTRUCTIONS </strong></p><p dir="ltr">Microwave: Remove cover and set aside. Lay pillow as flat as possible on turntable and heat in 30-second intervals until you reach your desired temperature. Shake pillow between intervals for even heating. Test temperature on the back of the hand or forearm before placing on the neck or face. Do not overheat.</p><p dir="ltr">Oven: Remove cover &amp; set aside. If you do not have a microwave, you can heat your pillow up in the oven at 250-300 degrees Fahrenheit at 30-second intervals, until it's at your desired temperature. Please be sure to remove the pillow every 30 seconds to shake around the contents so they do not burn. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Therapy Pillows</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709468220</id>
+      <title>Sand</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>20102-0001</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709468220</id>
+      <title>Surf</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>20102-0002</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709468220</id>
+      <title>Plum</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>20102-0004</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+</feed>

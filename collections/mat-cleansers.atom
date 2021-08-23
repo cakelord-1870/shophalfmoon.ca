@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/mat-cleansers.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-06-23T10:51:09-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709140540</id>
+    <published>2021-06-23T10:51:09-07:00</published>
+    <updated>2021-06-23T10:51:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/mat-clean-8oz"/>
+    <title>Mat Clean 8oz</title>
+    <s:type>Mat Clean</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/4a092bf0decee19b95d4e50192716297_2000x_6b6e75a2-6b5b-44ec-80bd-90b83bc00d52.jpg?v=1621454954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mat Clean<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Mat Clean Unscented is a synergistic blend of natural cleansing and disinfecting ingredients that removes dirt and kills germs in a natural way.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">100% natural</p></li>
+<li dir="ltr"><p dir="ltr">Non-toxic, recycled bottle</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Volume: 8oz</p></li>
+<li dir="ltr"><p dir="ltr">Ingredients: Purified Water, Witch Hazel Distillate, Lauryl Glucoside, Citric Acid, Potassium Sorbate</p></li>
+<li dir="ltr"><p dir="ltr">Made in Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HOW TO USE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spray mat liberally, allow to sit for a few minutes then wipe. Allow mat to dry fully before rolling.</p></li>
+<li dir="ltr"><p dir="ltr">Do not store in direct sunlight</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Cleansers</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709140540</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>913386</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708124732</id>
+    <published>2021-06-23T10:51:08-07:00</published>
+    <updated>2021-06-23T10:51:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/mat-clean-1l"/>
+    <title>Mat Clean 1L</title>
+    <s:type>Mat Clean</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/bcc6329ce43d5c34d435b303e2e858db_2000x_4aa38f0b-e5ff-4e87-86dd-b8706c373235.jpg?v=1621455034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mat Clean<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Mat Clean Unscented is a synergistic blend of natural cleansing and disinfecting ingredients that removes dirt, and kills germs in a natural way</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">100% natural</p></li>
+<li dir="ltr"><p dir="ltr">Non-toxic, recycled bottle</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Volume: 1L</p></li>
+<li dir="ltr"><p dir="ltr">Ingredients: Purified Water, Witch Hazel Distillate, Lauryl Glucoside, Citric Acid, Potassium Sorbate</p></li>
+<li dir="ltr"><p dir="ltr">Made in Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HOW TO USE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spray mat liberally, allow to sit for a few minutes then wipe</p></li>
+<li dir="ltr"><p dir="ltr">Allow mat to dry fully before rolling</p></li>
+<li dir="ltr"><p dir="ltr">Do not store in direct sunlight</p></li>
+<li dir="ltr"><p dir="ltr">Some individuals are sensitive to essential oils—discontinue use if you have an allergic reaction</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Cleansers</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708124732</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>14007-0001</s:sku>
+      <s:grams>1080</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708091964</id>
+    <published>2021-06-23T10:51:08-07:00</published>
+    <updated>2021-06-23T10:51:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/mat-clean-cool-mint"/>
+    <title>Mat Clean</title>
+    <s:type>Mat Clean</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Mat-Cleanser-CoolMint-_1000x1200_2000x_f5e367b0-f7ab-44c6-b872-0623d74594d9.jpg?v=1621455035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mat Clean<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1" data-sanitized-data-mce-fragment="1">Our Natural Mat Clean - Cool Mint, is a synergistic blend of natural cleansing and disinfecting ingredients that removes dirt and kills germs in a natural way.</span><br data-mce-fragment="1" data-sanitized-data-mce-fragment="1"><br data-mce-fragment="1" data-sanitized-data-mce-fragment="1"><span data-mce-fragment="1" data-sanitized-data-mce-fragment="1">Cool Mint calms, grounds, and refreshes. Upfront floral notes of Lavender, complemented by full-bodied scents of peppermint, eucalyptus, rosemary, and hints of citrus, make this mat spray a dream for your mat and your nose.</span></p><p><br></p><p><strong>FEATURES</strong></p><ul>
+<li>100% natural</li>
+<li>Made with pure essential oils</li>
+<li>Non-toxic, recycled bottle</li>
+<li>Soothing lavender mint scent</li>
+<li>Made in Vancouver, BC, Canada</li>
+</ul><p><br></p><p><strong>SPECS</strong></p><ul>
+<li>Volume: 8oz</li>
+<li>Ingredients: Aqua (purified water), Hamamelis Virginiana (witch hazel - antibacterial antifungal) distillate (and) alcohol, Caprylyl/Capryl Glucoside, Peppermint Essential Oil, Lavender Essential Oil, Eucalyptus Essential Oil, Rosemary Essential Oil, Cajeput Essential Oil, Vetiver Essential Oil, Citric Acid (natural disinfectant), Potassium Sorbate</li>
+</ul><p><br></p><p><strong>HOW TO USE</strong></p><ul>
+<li>Spray mat liberally, allow to sit for a few minutes then wipe</li>
+<li>Allow mat to dry fully before rolling</li>
+<li>Do not store in direct sunlight</li>
+<li>Some individuals are sensitive to essential oils—discontinue use if you have an allergic reaction</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Cleansers</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708091964</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>13983-0003</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708059196</id>
+    <published>2021-06-23T10:51:07-07:00</published>
+    <updated>2021-06-23T10:51:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/mat-clean-citrus-glow"/>
+    <title>Mat Clean</title>
+    <s:type>Mat Clean</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Mat-Cleanser-CitrusGlow-_1000x1200_2000x_33413dcb-6184-468e-a1b9-b67653351afd.jpg?v=1621455036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mat Clean<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Mat Clean in Citrus Glow is a synergistic blend of natural cleansing and disinfecting ingredients that removes dirt and kills germs in a natural way. Citrus Glow highlights scents from the freshest of nature's citrus fruits: Sweet Orange, Lemon, Lime, and Grapefruit.  Notes of Bergamot and Ylang Ylang round out this new go-to natural mat cleaner.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">100% natural</p></li>
+<li dir="ltr"><p dir="ltr">Made with pure essential oils</p></li>
+<li dir="ltr"><p dir="ltr">Non-toxic, recycled bottle</p></li>
+<li dir="ltr"><p dir="ltr">Refreshing citrus scent</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Volume: 8oz</p></li>
+<li dir="ltr"><p dir="ltr">Ingredients: Aqua (purified water), Hamamelis Virginiana (witch hazel - antibacterial antifungal) distillate (and) alcohol, Caprylyl/Capryl Glucoside, Sweet Orange Essential Oil, Lemon Essential Oil, Lime Essential Oil, Grapefruit White Essential Oil, Bergamot Essential Oil, Ylang Ylang Essential Oil, Citric Acid (a natural disinfectant), Potassium Sorbate</p></li>
+<li dir="ltr"><p dir="ltr">Made in Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HOW TO USE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spray mat liberally, allow to sit for a few minutes then wipe</p></li>
+<li dir="ltr"><p dir="ltr">Allow mat to dry fully before rolling</p></li>
+<li dir="ltr"><p dir="ltr">Do not store in direct sunlight</p></li>
+<li dir="ltr"><p dir="ltr">Some individuals are sensitive to essential oils—discontinue use if you have an allergic reaction </p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Cleansers</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708059196</id>
+      <title>Citrus Glow</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>13983-0004</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708157500</id>
+    <published>2021-05-19T13:06:43-07:00</published>
+    <updated>2021-05-19T13:06:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/mat-clean-concentrate-cool-mint"/>
+    <title>Mat Clean Concentrate</title>
+    <s:type>Mat Clean</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/NaturalMatCleanConcentrate_CoolMint__1000x1200_2000x_10e972b6-7fc6-43f6-932c-286f0ac1c961.png?v=1621455033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mat Clean<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">The Mat Clean Concentrate is a mix of natural cleansing and disinfecting ingredients that keep yoga mats and props free of germs and bacteria. Our biodegradable concentrate is free of parabens and toxins. 1 bottle of concentrate is equal to 4L of cleaner when mixed, making for an eco-friendly option! </p><p dir="ltr">Concentrate is 1:8 ratio (500ml concentrate = 4L mat cleaner; 125ml concentrate = 1L mat cleaner). Mix concentrate with (distilled) water to create mat cleaner formulation.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Blend of essential oils and natural scents</p></li>
+<li dir="ltr"><p dir="ltr">Biodegradable</p></li>
+<li dir="ltr"><p dir="ltr">Non-toxic</p></li>
+<li dir="ltr"><p dir="ltr">Paraben-free</p></li>
+<li dir="ltr"><p dir="ltr">Comes in a non-toxic, recycled bottle</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Volume: 500 ml </p></li>
+<li dir="ltr"><p dir="ltr">Ingredients: Witch Hazel Distillate, Purified Water, Caprylyl/Capryl Glucoside, Peppermint essential oil, Lavender essential oil, Eucalyptus essential oil, Rosemary essential oil, Cajeput essential oil, Vetiver essential oil, Citric Acid, Potassium Sorbate</p></li>
+<li dir="ltr"><p dir="ltr">Made in Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>HOW TO USE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Concentrate is 1:8 ratio (500ml concentrate = 4L mat cleaner; 125ml concentrate = 1L mat cleaner). </p></li>
+<li dir="ltr"><p dir="ltr">Mix concentrate with (distilled) water to create a mat cleaner formulation</p></li>
+<li dir="ltr"><p dir="ltr">Spray mat liberally, allow to sit for a few minutes then wipe</p></li>
+<li dir="ltr"><p dir="ltr">Allow the mat to dry fully before rolling</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Cleansers</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708157500</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>20171-0001</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/massage.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:55-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707010620</id>
+    <published>2021-05-19T13:06:55-07:00</published>
+    <updated>2021-05-19T13:06:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/foam-massage-roller"/>
+    <title>Foam Massage Roller</title>
+    <s:type>Foam</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.FoamRoller3_2000x_f4af176f-8163-47fe-a9f4-ea78918895f2.jpg?v=1621455105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Foam<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 18" Foam Roller is optimal for large muscle groups like legs and glutes due to its large surface area/diameter. Shorter than a lot of rollers you see on the market, our Foam Roller is more compact, easier to maneuver, and convenient to store.</p><p dir="ltr">The EVA foam is comfortable yet firm to allow you to roll with a medium-deep intensity after a sweat session or during a restorative session.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Medium to deep muscle release</p></li>
+<li dir="ltr"><p dir="ltr">Acupressure tool</p></li>
+<li dir="ltr"><p dir="ltr">Post-workout recovery or restorative practices</p></li>
+<li dir="ltr"><p dir="ltr">Lightweight</p></li>
+<li dir="ltr"><p dir="ltr">Easy to maneuver</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">6” × 18” (15cm × 46cm)</p></li>
+<li dir="ltr"><p dir="ltr">4.2 oz (120 g)</p></li>
+<li dir="ltr"><p dir="ltr">100% EVA foam </p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spray with our Mat Cleanser or a damp cloth with a mild/natural disinfectant (vinegar, mild soap)</p></li>
+<li dir="ltr"><p dir="ltr">Wipe and air dry before storage</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707010620</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>914010</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707076156</id>
+    <published>2021-05-19T13:06:54-07:00</published>
+    <updated>2021-05-19T13:06:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/jumbo-natural-rubber-massage-ball"/>
+    <title>Jumbo Natural Rubber Massage Ball</title>
+    <s:type>Rubber</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Jumbo_1000x1200_2000x_e4baf9f5-aa90-4d65-8f44-0a52e9b0992d.jpg?v=1621455099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rubber<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Jumbo Natural Rubber Massage Ball is perfect for rolling out large muscle groups such as the back, hips, glutes, and legs. This ball offers medium to firm pressure, relieving tight uncomfortable muscles, and helping to improve circulation. Known to enhance joint movement, aid in muscle recovery from workouts, reduce pain, and relax the body, simply lean into a wall, or the floor, to find the perfect pressure for your needs.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Provides medium to firm pressure</p></li>
+<li dir="ltr"><p dir="ltr">Releases tight muscles</p></li>
+<li dir="ltr"><p dir="ltr">Improves circulation and mobility</p></li>
+<li dir="ltr"><p dir="ltr">Easy to clean</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3.875” x 3.625” x 3.875”</p></li>
+<li dir="ltr"><p dir="ltr">Diameter: 3.8" (9.7cm)</p></li>
+<li dir="ltr"><p dir="ltr">70% natural rubber, 20% calcium carbonate, 10% foaming agent</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean with a wet cloth</p></li>
+<li dir="ltr"><p dir="ltr">Dry completely with a dry towel then air dry fully before storing</p></li>
+<li dir="ltr"><p dir="ltr">Do not allow product to be soaked in water</p></li>
+<li dir="ltr"><p dir="ltr">Avoid direct sunlight and dust</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707076156</id>
+      <title>Blue</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>20108-0001</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708026428</id>
+    <published>2021-05-19T13:06:46-07:00</published>
+    <updated>2021-05-19T13:06:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/massage-balls"/>
+    <title>Massage Balls</title>
+    <s:type>Synthetic</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/c6d5e1dd7168606f32392d45de7df822_2000x_9c5a58a5-1d92-472f-8a5d-03e73492b244.jpg?v=1621455625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Synthetic<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Massage Balls are a great tool to use in releasing tension and tightness as a result of sports or workouts, sitting for long periods of time/office work, or day-to-day activities. Use our massage balls individually by placing one between the wall or floor and your tight muscle, or together placed on either side of your spine. You control how deep or gentle the massage is by placing more or less weight against the ball(s). This size is great for medium to large size muscles or tension points. Provides medium to firm pressure.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Medium firmness</p></li>
+<li dir="ltr"><p dir="ltr">Releases tight muscles</p></li>
+<li dir="ltr"><p dir="ltr">Improves circulation and mobility</p></li>
+<li dir="ltr"><p dir="ltr">Use one at a time, or simultaneously</p></li>
+<li dir="ltr"><p dir="ltr">Easy to clean </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Set of two</p></li>
+<li dir="ltr"><p dir="ltr">4" (10 cm) diameter</p></li>
+<li dir="ltr"><p dir="ltr">100% PVC</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean with soap and water</p></li>
+<li dir="ltr"><p dir="ltr">Dry completely with a dry towel then air dry fully before storing</p></li>
+<li dir="ltr"><p dir="ltr">Avoid direct sunlight and dust</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708026428</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>11464-0001</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708583484</id>
+    <published>2021-05-19T13:06:41-07:00</published>
+    <updated>2021-05-19T13:06:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/natural-cork-massage-roller"/>
+    <title>Natural Cork Massage Roller</title>
+    <s:type>Cork</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/CorkRoller_1000x1200_2000x_0148bb9b-f638-426e-b2d4-22502d151030.jpg?v=1621455010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cork<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Cork Massage Roller allows you to roll out tight muscles while helping to improve circulation. Made from natural cork, this firm roller is a powerful self-healing tool that can improve mobility and recovery, and calm your nervous system. Lean into a wall, or the floor to create just the right pressure to roll out your back or big muscle groups like hips and legs. Roll along arms to relieve wrist and hand pain.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Small and lightweight so you can take it with you to yoga or the gym</p></li>
+<li dir="ltr"><p dir="ltr">Provides firm pressure</p></li>
+<li dir="ltr"><p dir="ltr">Releases tight muscles</p></li>
+<li dir="ltr"><p dir="ltr">Narrow and fairly localized pressure</p></li>
+<li dir="ltr"><p dir="ltr">Improves circulation and mobility</p></li>
+<li dir="ltr"><p dir="ltr">Use on large muscle groups or under feet/arms/wrists</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">11.5” x 2.1” x 2.1”</p></li>
+<li dir="ltr"><p dir="ltr">100% Natural Cork</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean the cork when/if needed</p></li>
+<li dir="ltr"><p dir="ltr">Use a wet cloth and allow to air dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not soak in water and avoid direct sunlight</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708583484</id>
+      <title>Natural Cork</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>20106-0001</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708550716</id>
+    <published>2021-05-19T13:06:41-07:00</published>
+    <updated>2021-05-19T13:06:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/natural-cork-massage-ball-trio"/>
+    <title>Natural Cork Massage Ball Trio</title>
+    <s:type>Cork</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/aca8832b4ec96ff952cb11989d5267c0_2000x_8e89a38d-5dd7-40c5-a094-e56459ea2762.jpg?v=1621455012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cork<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Cork Massage Ball Trio contains three smooth and firm cork massage balls. Powerful self-healing tools, massage balls enhance joint movement, relieve tension, increase circulation, and calm your nervous system. Lean into a wall, chair, or floor to create just the right pressure. Experiment with the two unique sizes (1 small + 2 medium) to find the exact pressure you're looking for or roll the matching massage balls on either side of your spine for balanced release.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Provides firm pressure</p></li>
+<li dir="ltr"><p dir="ltr">Releases tight muscles</p></li>
+<li dir="ltr"><p dir="ltr">Two size offerings (1 small ball + 2 medium balls)</p></li>
+<li dir="ltr"><p dir="ltr">Improves circulation and mobility</p></li>
+<li dir="ltr"><p dir="ltr">Use one or two at a time</p></li>
+<li dir="ltr"><p dir="ltr">Natural cork material</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Set of 3 (2 large &amp; 1 small) with reusable cotton mesh bag</p></li>
+<li dir="ltr"><p dir="ltr">Large: 3" </p></li>
+<li dir="ltr"><p dir="ltr">Small: 2" </p></li>
+<li dir="ltr"><p dir="ltr">100% natural cork</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean with a wet cloth, dry with cloth then air dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not soak in water and avoid direct sunlight</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708550716</id>
+      <title>Natural Cork</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>13921-0001</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708485180</id>
+    <published>2021-05-19T13:06:41-07:00</published>
+    <updated>2021-05-19T13:06:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/mini-massage-balls"/>
+    <title>Mini Massage Balls</title>
+    <s:type>Synthetic</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Mini-Massage-Balls_Charcoal_1000x1200_2000x_bff2a193-f258-41e5-9cb5-c82c0d863215.jpg?v=1621455017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Synthetic<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Mini Massage Balls are a powerful self-healing tool for smaller muscle groups. These small massage balls are designed to isolate and target tight uncomfortable muscles while helping improve circulation. Perfect for trigger point massage, relaxation exercises, and reflexology. Roll the ball over groups of muscles, or lean into a wall, chair, or floor to work on specific pressure points. Provides targeted, localized pressure.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr"> Releases tight muscles</p></li>
+<li dir="ltr"><p dir="ltr"> Improves circulation and mobility</p></li>
+<li dir="ltr"><p dir="ltr"> Use one at a time, or simultaneously</p></li>
+<li dir="ltr"><p dir="ltr"> Easy to clean</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Set of two</p></li>
+<li dir="ltr"><p dir="ltr">3” diameter</p></li>
+<li dir="ltr"><p dir="ltr">0.5 lbs</p></li>
+<li dir="ltr"><p dir="ltr">100% PVC</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean with a wet cloth</p></li>
+<li dir="ltr"><p dir="ltr">Dry with cloth or air dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not soak in water and avoid direct sunlight</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708485180</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>13884-0001</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708485180</id>
+      <title>Lilac</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>13884-0003</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708616252</id>
+    <published>2021-05-19T13:06:40-07:00</published>
+    <updated>2021-05-19T13:06:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/natural-rubber-massage-peanut"/>
+    <title>Natural Rubber Massage Peanut</title>
+    <s:type>Rubber</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Peanut_1000x1200_2000x_74e54d82-0751-422d-ad1a-e23dbe601457.jpg?v=1621455006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rubber<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Rubber Massage Peanut is ergonomically shaped for massaging muscles prone to tension along either side of the spine. Lean into a wall, office chair, or floor to target areas that need it most. The Natural Rubber Massage Peanut offers medium to firm pressure, relieving tight uncomfortable muscles and helping to improve circulation. Try lying on your back and placing the peanut between the floor and the base of the skull or back of the neck, this can relieve tension in the neck and head while also alleviating headaches.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Provides medium to firm pressure</p></li>
+<li dir="ltr"><p dir="ltr">Offers symmetrical pressure on either side of the spine</p></li>
+<li dir="ltr"><p dir="ltr">Releases tight muscles</p></li>
+<li dir="ltr"><p dir="ltr">Relieves headaches</p></li>
+<li dir="ltr"><p dir="ltr">Improves range of motion</p></li>
+<li dir="ltr"><p dir="ltr">Easy to clean</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5.5” x 2.5” x 2.5”</p></li>
+<li dir="ltr"><p dir="ltr">0.6 lbs</p></li>
+<li dir="ltr"><p dir="ltr">70% natural rubber </p></li>
+<li dir="ltr"><p dir="ltr">20% calcium carbonate </p></li>
+<li dir="ltr"><p dir="ltr">10% foaming agent</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean with a wet cloth, dry with cloth then air dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not soak in water and avoid direct sunlight</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708616252</id>
+      <title>Blue</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>20107-0001</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

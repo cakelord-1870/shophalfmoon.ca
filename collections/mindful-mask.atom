@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/mindful-mask.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:39-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708747324</id>
+    <published>2021-05-19T13:06:39-07:00</published>
+    <updated>2021-05-19T13:06:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/the-mindful-mask"/>
+    <title>The Mindful Mask</title>
+    <s:type>Masks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/MindfulMaskIndigoTwist0552.jpg?v=1627596807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Masks<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">The Mindful Mask is a combination of hemp &amp; organic cotton and designed extra-wide for comfort and facial coverage. With a hidden pocket to add a filter if desired (filters not included), this mask has been made with flexible elastic and a one-size-fits-most pattern to enhance comfort and avoid adjusting.</p><p dir="ltr">Our hope in creating these masks is to provide a source of cloth masks for the general population and free up medical-grade N95 masks for medical use and front-line workers that are bravely working to keep us all healthy and safe. </p><p dir="ltr">For health, hygiene, and safety, this product is a FINAL SALE and cannot be returned or exchanged. </p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Hidden pocket to add a filter if desired (filters not provided)</p></li>
+<li dir="ltr"><p dir="ltr">Extra wide for additional facial coverage</p></li>
+<li dir="ltr"><p dir="ltr">Double layered</p></li>
+<li dir="ltr"><p dir="ltr">Elasticized “one-size-fits-most” design</p></li>
+<li dir="ltr"><p dir="ltr">Flexible elastic for comfort and to minimize head/face touching/adjustments</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3.75" x 7.25" (height expands from 3.75" to 6.5" when pleats are pulled over nose and chin)</p></li>
+<li dir="ltr"><p dir="ltr">55% hemp, 45% organic cotton</p></li>
+<li dir="ltr"><p dir="ltr">Made in Canada with safe hands and extra cleanliness precautions </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover, wash in cold water and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not wring or twist</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Do not Iron</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mindful Masks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708747324</id>
+      <title>Indigo Twist</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>20172-0003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

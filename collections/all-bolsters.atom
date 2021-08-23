@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/all-bolsters.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:58-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706617404</id>
+    <published>2021-05-19T13:06:58-07:00</published>
+    <updated>2021-05-19T13:06:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-cylindrical-bolster"/>
+    <title>Limited Edition Cylindrical Bolster</title>
+    <s:type>Cylindrical 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/CylindricalBolster-Fresco2.jpg?v=1628140980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cylindrical 24&quot;<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Cylindrical Bolster facilitates deep chest opening and back bending with it's 8" high diameter—the highest of our bolster lineup. The contoured, ergonomic shape fits perfectly under your knees while lying on your back providing relief for your lower back. Try it horizontally across the shoulder blades while on your back for an upper back extension. Alternatively, try vertical along the spine for deep chest opening and expansion. Find new depths in your posture and breath with one of our favourite bolster shapes</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection, a limited-time offering showcasing the Halfmoon creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality, and current fabrics that will enhance and elevate your studio, home, or zen space. Reinvigorate your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">24" x 8" x 8" (61cm x 20cm x 20cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 96% cotton, 3% polyester, 1% foam fill</p></li>
+<li dir="ltr"><p dir="ltr">5.5 lbs</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Cylindrical</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706617404</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>12135-0034</s:sku>
+      <s:grams>2540</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706617404</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>12135-0033</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706715708</id>
+    <published>2021-05-19T13:06:57-07:00</published>
+    <updated>2021-05-19T13:06:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-mini-prana-bolster"/>
+    <title>Essential Cotton Mini Prana Bolster</title>
+    <s:type>Mini Prana 15&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Mini-Prana-Bolster_Charcoal-upright__1000x1200_2000x_f3cc483a-4331-4199-930f-e3fab5f5c570.jpg?v=1621455136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mini Prana 15&quot;<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Mini Prana Bolster is a handy little bolster that promotes a gentle chest opening, subtly elevates your Pigeon pose, and provides a boost in "legs up the wall". This firm and supportive, high-quality bolster offers a softer and more gentle alternative to any posture that calls for a block. </p><p dir="ltr">TIP: Great for kids' yoga too!</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories. </p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">6" x 3" x 15" (15 cm x 8 cm x 38 cm)</p></li>
+<li dir="ltr"><p dir="ltr">1.8 lbs (0.8 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% cotton, 3% polyester</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from bolster, machine wash cover in cool water on the delicate cycle, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Mini Prana</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706715708</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>15301-0005</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706715708</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>15301-0009</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706715708</id>
+      <title>Ink</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>15301-0010</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706846780</id>
+    <published>2021-05-19T13:06:56-07:00</published>
+    <updated>2021-05-19T13:06:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-restorative-bolster"/>
+    <title>Essential Cotton Restorative Bolster</title>
+    <s:type>Restorative 28&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Restorative-Bolster_Charcoal-upright-handle__1000x1200_2000x_492a28e9-78b5-457e-bbce-a02a3602a2b3.jpg?v=1626306776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Restorative 28&quot;<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Restorative Bolster was designed specifically for the restorative practice or for those tall yogis (&gt;6ft) who benefit from some extra length on their bolster. The rectangular shape promotes a gentle chest opening and subtle back-bending when placing it beneath the spine and lying on your back. This bolster's generous size and flat stable surface area are designed to perfectly support your entire upper body in restorative yoga poses like Supported Fish and Supported Twist. </p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Designed to be long enough for a restorative yoga practice</p></li>
+<li dir="ltr"><p dir="ltr">Optimal bolster size for people who are over 6 feet tall</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Removable &amp; washable cover</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 28" (13 cm x 25 cm x 71 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Filling: Natural cotton batting fill processed in BC</p></li>
+<li dir="ltr"><p dir="ltr">Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p data-empty="true"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle. Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Restorative</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706846780</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>13931-0001</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706846780</id>
+      <title>Ink</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>13931-0005</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706846780</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">96.00</s:price>
+      <s:sku>13931-0006</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706814012</id>
+    <published>2021-05-19T13:06:56-07:00</published>
+    <updated>2021-05-19T13:06:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-rectangular-bolster"/>
+    <title>Essential Cotton Rectangular Bolster</title>
+    <s:type>Rectangular 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Rectangular-Bolster_Charcoal-upright-handle__1000x1200_2000x_f84106b6-2aa5-438c-9cb3-8c7d54040003.jpg?v=1627596886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rectangular 24&quot;<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Rectangular Bolster promotes gentle chest opening, makes a great back bending prop, and provides a moderate lift for forward bends and legs up the wall. Its generous size creates a stable, comfortable surface—so stretch out, lie back, and relax!</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 24" (13 cm x 25 cm x 61 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Cotton </p></li>
+<li><p>Casing: 100% </p></li>
+<li><p>Cotton Filling: 96% Cotton 3% Polyester 1% Foam fill</p></li>
+<li><p>Handcrafted just outside Vancouver, BC, Canada<br><br></p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Rectangular</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706814012</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>915320</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706814012</id>
+      <title>Ink</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>12132-0009</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706814012</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>12132-0010</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706781244</id>
+    <published>2021-05-19T13:06:56-07:00</published>
+    <updated>2021-05-19T13:06:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-prana-bolster"/>
+    <title>Essential Cotton Prana Bolster</title>
+    <s:type>Prana 26&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Prana-Bolster_Charcoal-upright-handle__1000x1200_2000x_d18d6981-dedf-42cb-a13c-2ae139fc5991.jpg?v=1621455129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Prana 26&quot;<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Prana Yoga Bolster was designed to facilitate deeper breathing and gentle openings. Its 26" length supports the entire spine, from the low back to the head. And the narrow width and gentle lift allow the chest to relax and open, increasing lung capacity and space across the chest. The perfect addition to your pranayama or asana practice.</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Handcrafted at Halfmoon in Burnaby</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3" x 7" x 26" (8 cm x 18 cm x 66 cm)</p></li>
+<li dir="ltr"><p dir="ltr">3 lbs (1.4 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% Cotton 3% Polyester. Natural cotton batting fill processed in BC, Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from bolster, machine wash cover in cool water on the delicate cycle, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Prana</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706781244</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>914616</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706781244</id>
+      <title>Ink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>12133-0009</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706781244</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>12133-0010</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707207228</id>
+    <published>2021-05-19T13:06:53-07:00</published>
+    <updated>2021-05-19T13:06:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-mini-prana-bolster"/>
+    <title>Limited Edition Mini Prana Bolster</title>
+    <s:type>Mini Prana 15&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/MiniPranaBolster_Solstice__1000x1200_2000x_fc9419f1-a45b-4085-9782-bdea0217a292.png?v=1626304713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mini Prana 15&quot;<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Mini Prana Bolster is a handy little bolster that promotes a gentle chest opening, subtly elevates your Pigeon pose, and provides a boost in "legs up the wall". This firm and supportive, high-quality bolster offers a softer and more gentle alternative to any posture that calls for a block. </p><p dir="ltr">TIP: Great for kids' yoga too!</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection is a limited time offering showcasing Halfmoon's creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home or zen space. Reinvigorate life into your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">6" x 3" x 15" (15 cm x 8 cm x 38 cm)</p></li>
+<li dir="ltr"><p dir="ltr">1.8 lbs (0.8 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% cotton, 3% polyester</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from bolster, machine wash cover in cool water on the delicate cycle, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Mini Prana</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707207228</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>13892-0025</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707174460</id>
+    <published>2021-05-19T13:06:53-07:00</published>
+    <updated>2021-05-19T13:06:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-mini-cylindrical-bolster"/>
+    <title>Limited Edition Mini Cylindrical Bolster</title>
+    <s:type>Mini Cylindrical 16&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/MiniCylindricalBolster16Fresco0360.jpg?v=1628140991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mini Cylindrical 16&quot;<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Mini Cylindrical Bolster is our most malleable and compact bolster option. Unlike our other cotton-filled bolster offerings, this mini bolster is filled with Canadian buckwheat hulls so that the prop can move, mold, and shape to your body. We intentionally filled this bolster to approximately 60% capacity (~2 lbs) to allow the hulls to hug around the back of the neck, under the seat/hips, or along the spine during practice.</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection is a limited time offering showcasing Halfmoon's creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home or zen space. Reinvigorate life into your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5.5" x 16" (14 cm x 41 cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: natural Canadian buckwheat hulls</p></li>
+<li dir="ltr"><p dir="ltr">2 lbs (0.91kg)</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Mini Cylindrical</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707174460</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>12083-0027</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707174460</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>12083-0026</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707371068</id>
+    <published>2021-05-19T13:06:52-07:00</published>
+    <updated>2021-05-19T13:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-prana-bolster"/>
+    <title>Limited Edition Prana Bolster</title>
+    <s:type>Prana 26&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/PranaBolster26Fresco0468.jpg?v=1628141016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Prana 26&quot;<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Prana Yoga Bolster was designed to facilitate deeper breathing and gentle openings. Its 26" length supports the entire spine, from the low back to the head. And the narrow width and gentle lift allow the chest to relax and open, increasing lung capacity and space across the chest. The perfect addition to your pranayama or asana practice.</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection is a limited time offering showcasing Halfmoon's creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home or zen space. Reinvigorate life into your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Handcrafted at Halfmoon in Burnaby</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3" x 7" x 26" (8 cm x 18 cm x 66 cm)</p></li>
+<li dir="ltr"><p dir="ltr">3 lbs (1.4 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% Cotton 3% Polyester. Natural cotton batting fill processed in BC, Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from bolster, machine wash cover in cool water on the delicate cycle, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Prana</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707371068</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>12134-0027</s:sku>
+      <s:grams>1678</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707371068</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>12134-0026</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707436604</id>
+    <published>2021-05-19T13:06:51-07:00</published>
+    <updated>2021-05-19T13:06:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-restorative-bolster"/>
+    <title>Limited Edition Restorative Bolster</title>
+    <s:type>Restorative 28&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/RestorativeBolsterFresco0462.jpg?v=1628141030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Restorative 28&quot;<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Restorative Bolster was designed specifically for the restorative practice or for those tall yogis (&gt;6ft) who benefit from some extra length on their bolster. The rectangular shape promotes a gentle chest opening and subtle back-bending when placing it beneath the spine and lying on your back. This bolster's generous size and flat stable surface area are designed to perfectly support your entire upper body in restorative yoga poses like Supported Fish and Supported Twist. </p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection is a limited time offering showcasing Halfmoon's creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home or zen space. Reinvigorate life into your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Designed to be long enough for a restorative yoga practice</p></li>
+<li dir="ltr"><p dir="ltr">Optimal bolster size for people who are over 6 feet tall</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Removable &amp; washable cover</p></li>
+</ul><p data-empty="true"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 28" (13 cm x 25 cm x 71 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Filling: Natural cotton batting fill processed in BC</p></li>
+<li dir="ltr"><p dir="ltr">Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p data-empty="true"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle. Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Restorative</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707436604</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">112.00</s:price>
+      <s:sku>20121-0005</s:sku>
+      <s:grams>2767</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707436604</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">112.00</s:price>
+      <s:sku>20121-0004</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707403836</id>
+    <published>2021-05-19T13:06:51-07:00</published>
+    <updated>2021-05-19T13:06:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-rectangular-bolster"/>
+    <title>Limited Edition Rectangular Bolster</title>
+    <s:type>Rectangular 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/RectangularBolster24Fresco0335_c8b909eb-282b-487a-b7e8-cf0b555dfd2e.jpg?v=1628141023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rectangular 24&quot;<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Rectangular Bolster promotes gentle chest opening, makes a great back bending prop, and provides a moderate lift for forward bends and legs up the wall. Its generous size creates a stable, comfortable surface—so stretch out, lie back, and relax!</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection, a limited-time offering showcasing Halfmoon's creative vision for the season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home, or zen space. Reinvigorate your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 24" (13 cm x 25 cm x 61 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Cotton </p></li>
+<li><p>Casing: 100% Cotton </p></li>
+<li><p>Filling: 96% Cotton 3% Polyester 1% Foam fill</p></li>
+<li><p>Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Rectangular</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707403836</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11352-0036</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707403836</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11352-0035</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707633212</id>
+    <published>2021-05-19T13:06:50-07:00</published>
+    <updated>2021-05-19T13:06:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-cylindrical-bolster"/>
+    <title>Linen Cylindrical Bolster</title>
+    <s:type>Cylindrical 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/9b86e01f5e0e9bbdfb51f99b64a0444c_2000x_c63c17ea-d45b-4954-9988-cd640b752345.jpg?v=1621455064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cylindrical 24&quot;<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Cylindrical Bolster facilitates deep chest opening and back bending with it's 8" high diameter—the highest of our bolster lineup. The contoured, ergonomic shape fits perfectly under your knees while lying on your back providing relief for your lower back. Try it horizontally across the shoulder blades while on your back for an upper back extension. Alternatively, try vertical along the spine for deep chest opening and expansion. Find new depths in your posture and breath with one of our favourite bolster shapes</p><p dir="ltr">This product is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibers make it much more earth-friendly than alternative fibers in the market. Bonus: Our linens not only have a soft hand feel and cooling properties but also are biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">24" x 8" x 8" (61cm x 20cm x 20cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% linen </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 96% cotton, 3% polyester, 1% foam fill</p></li>
+<li dir="ltr"><p dir="ltr">5.5 lbs</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Cylindrical</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707633212</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>12135-0016</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707633212</id>
+      <title>Fig Linen</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>20155-0001</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707665980</id>
+    <published>2021-05-19T13:06:49-07:00</published>
+    <updated>2021-05-19T13:06:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-mini-cylindrical-bolster"/>
+    <title>Linen Mini Cylindrical Bolster</title>
+    <s:type>Mini Cylindrical 16&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.MiniCyl.NaturalLinen_1000x1200_2000x_82cf35b7-2fdb-4394-989b-d28d788bc82a.jpg?v=1621455060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Mini Cylindrical 16&quot;<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Mini Cylindrical Bolster is our most malleable and compact bolster option. Unlike our other cotton-filled bolster offerings, this mini bolster is filled with Canadian buckwheat hulls so that the prop can move, mold, and shape to your body. We intentionally filled this bolster to approximately 60% capacity (~2 lbs) to allow the hulls to hug around the back of the neck, under the seat/hips, or along the spine during practice.</p><p>This product is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibres, make it much more earth-friendly than alternative fibres in the market. Bonus: Our linens not only have a soft hand feel and cooling properties but are also biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Compact &amp; malleable bolster</p></li>
+<li dir="ltr"><p dir="ltr">Small size for convenience and maneuverability</p></li>
+<li dir="ltr"><p dir="ltr">Multi-purpose for use in a variety of poses</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+<li dir="ltr"><p dir="ltr">Removable &amp; washable cover</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5.5" x 16" (14 cm x 41 cm)</p></li>
+<li dir="ltr"><p dir="ltr">2 lbs (0.91kgs)</p></li>
+<li dir="ltr"><p dir="ltr">Filled with natural Canadian buckwheat hulls</p></li>
+<li dir="ltr"><p dir="ltr">Cushions are filled by volume. Due to the natural differences in buckwheat, weight may vary by +/- 5%</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% linen</p></li>
+<li dir="ltr"><p dir="ltr">100% cotton casing made in India</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Mini Cylindrical</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707665980</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>12083-0024</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707895356</id>
+    <published>2021-05-19T13:06:48-07:00</published>
+    <updated>2021-05-19T13:06:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-restorative-bolster"/>
+    <title>Linen Restorative Bolster</title>
+    <s:type>Restorative 28&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Restorative.RectangularNatural_1000x1200_handle_2000x_372877d5-8d93-4122-986f-86abae7f433f.jpg?v=1621455049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Restorative 28&quot;<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Restorative Bolster was designed specifically for the restorative practice or for those tall yogis (&gt;6ft) who benefit from some extra length on their bolster. The rectangular shape promotes a gentle chest opening and subtle back-bending when placing it beneath the spine and lying on your back. This bolster's generous size and flat stable surface area are designed to perfectly support your entire upper body in restorative yoga poses like Supported Fish and Supported Twist. </p><p dir="ltr">This product is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibers, make it much more earth-friendly than alternative fibers in the market. Bonus: Our linens not only have a soft hand feel and cooling properties but also are biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Designed to be long enough for a restorative yoga practice</p></li>
+<li dir="ltr"><p dir="ltr">Optimal bolster size for people who are over 6 feet tall</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Removable &amp; washable cover</p></li>
+</ul><p data-empty="true"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 28" (13 cm x 25 cm x 71 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% linen </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Filling: Natural cotton batting fill processed in BC</p></li>
+<li dir="ltr"><p dir="ltr">Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p data-empty="true"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle. Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Restorative</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707895356</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">112.00</s:price>
+      <s:sku>20121-0002</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707829820</id>
+    <published>2021-05-19T13:06:48-07:00</published>
+    <updated>2021-05-19T13:06:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-rectangular-bolster"/>
+    <title>Linen Rectangular Bolster</title>
+    <s:type>Rectangular 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/RectangularNatural_1000x1200_handle_2000x_c4183a3f-41d4-40b5-a50a-dd7c542335a7.jpg?v=1621455052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Rectangular 24&quot;<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Rectangular Bolster promotes gentle chest opening, makes a great back bending prop, and provides a moderate lift for forward bends and legs up the wall. Its generous size creates a stable, comfortable surface—so stretch out, lie back, and relax!</p><p dir="ltr">This product is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibres make it much more earth-friendly than alternative fibres in the market. Bonus: Our linens not only have a soft hand feel and cooling properties but also are biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">5" x 10" x 24" (13 cm x 25 cm x 61 cm)</p></li>
+<li dir="ltr"><p dir="ltr">5 lbs (2.3 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Linen</p></li>
+<li><p>Casing: 100% Cotton </p></li>
+<li><p>Filling: 96% Cotton, 3% Polyester, 1% Foam fill</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction when removing from storage or when carrying to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Rectangular</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707829820</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>11352-0018</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707829820</id>
+      <title>Fig Linen</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>20153-0001</s:sku>
+      <s:grams>2359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708845628</id>
+    <published>2021-05-19T13:06:38-07:00</published>
+    <updated>2021-05-19T13:06:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-cylindrical-bolster"/>
+    <title>Essential Cotton Cylindrical Bolster</title>
+    <s:type>Cylindrical 24&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Cylindrical-Bolster_Charcoal-upright-handle__1000x1200_2000x_a525ee0b-ef59-42f2-ad6f-fe824564e5e8.jpg?v=1621454991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cylindrical 24&quot;<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Cylindrical Bolster facilitates deep chest opening and back bending with it's 8" high diameter—the highest of our bolster lineup. The contoured, ergonomic shape fits perfectly under your knees while lying on your back providing relief for your lower back. Try it horizontally across the shoulder blades while on your back for an upper back extension. Alternatively, try vertical along the spine for deep chest opening and expansion. Find new depths in your posture and breath with one of our favourite bolster shapes</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Dense, quality, handmade interior batting for longevity</p></li>
+<li dir="ltr"><p dir="ltr">Removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Easy carry handle</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">24" x 8" x 8" (61cm x 20cm x 20cm)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 96% cotton, 3% polyester, 1% foam fill</p></li>
+<li dir="ltr"><p dir="ltr">5.5 lbs</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from the bolster. Machine wash cover in cool water on the delicate cycle</p></li>
+<li dir="ltr"><p dir="ltr">Hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not bleach</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex-gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Cylindrical</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708845628</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>915318</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708845628</id>
+      <title>Ink</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>12131-0009</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708845628</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">87.00</s:price>
+      <s:sku>12131-0010</s:sku>
+      <s:grams>2495</s:grams>
+    </s:variant>
+  </entry>
+</feed>

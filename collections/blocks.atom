@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/blocks.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:07:01-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706224188</id>
+    <published>2021-05-19T13:07:01-07:00</published>
+    <updated>2021-05-19T13:07:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/3-foam-yoga-block"/>
+    <title>3&quot; Foam Yoga Block</title>
+    <s:type>Foam Yoga Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/0a9999f583852f428da0626d10b1a53a_2000x_c52db25f-a7f8-46ac-a607-74e8f406716f.jpg?v=1627058990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Foam Yoga Blocks<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 3" Foam Yoga Block gives you a mild, medium, or intense lift depending on which end you prop it on. This allows you to have comfort, stability and grounding throughout your asana practice. These foam blocks are lightweight for easy mobility while you practice and are gentle on the body.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Soft &amp; comfortable</p></li>
+<li dir="ltr"><p dir="ltr">Moderate density</p></li>
+<li dir="ltr"><p dir="ltr">Lightweight</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">9" x 6" x 3" (23 cm x 15 cm x 7.6 cm)</p></li>
+<li dir="ltr"><p dir="ltr">4 oz (113 g)</p></li>
+<li dir="ltr"><p dir="ltr">100% EVA foam spray</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spray with our Mat Cleanser, or a damp cloth with a mild/natural disinfectant (vinegar, mild soap)</p></li>
+<li dir="ltr"><p dir="ltr">Wipe and air dry before storage</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3&quot; Foam Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706224188</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>913676</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706224188</id>
+      <title>Ink</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>10036-0008</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706224188</id>
+      <title>Plum</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>10036-0009</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706355260</id>
+    <published>2021-05-19T13:07:00-07:00</published>
+    <updated>2021-05-19T13:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/chip-foam-yoga-block"/>
+    <title>Chip Foam Yoga Block</title>
+    <s:type>Foam Yoga Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/7a3d6d54dc031bba5e721802f3d60f1a_2000x_543c1e7d-ca38-407a-a32a-85d0f2d53738.jpg?v=1621455165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Foam Yoga Blocks<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Chip Foam Block is one of our most versatile props. The foam is dense enough to offer solid support, yet soft enough to provide padding for knees, elbows, or hips. Whether seated, standing, reclined, inverted, or twisted, this block can bring comfort, depth, lift, or support to any practice. Elevate your yoga practice with this stackable block.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Made from foam offcuts</p></li>
+<li dir="ltr"><p dir="ltr">Colour may vary</p></li>
+<li dir="ltr"><p dir="ltr">Moderate density for comfort and support</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">2" x 8" x 12" (5 cm x 20 cm x 30 cm)</p></li>
+<li dir="ltr"><p dir="ltr">1.3 lbs (0.6 kg)</p></li>
+<li dir="ltr"><p>Block made in Canada</p></li>
+<li dir="ltr"><p>Cover handcrafted in India</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Extend the life of your chip foam block with a removable cover</p></li>
+<li dir="ltr"><p dir="ltr">Store away from UV light</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chip Foam Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706355260</id>
+      <title>Foam</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>900183</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706256956</id>
+    <published>2021-05-19T13:07:00-07:00</published>
+    <updated>2021-05-19T13:07:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/4-foam-yoga-block"/>
+    <title>4&quot; Foam Yoga Block</title>
+    <s:type>Foam Yoga Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/deb3ded28ca052a6c46f39a3b0a92412_2000x_d7d481ad-a387-4273-a55b-d2692451a5d2.jpg?v=1627064583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Foam Yoga Blocks<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our 4" Foam Yoga Block gives you a mild, medium, or intense lift depending on which end you prop it on. This allows you to have comfort, stability and grounding throughout your asana practice. These foam blocks are lightweight for easy mobility while you practice and are gentle on the body.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Soft &amp; comfortable</p></li>
+<li dir="ltr"><p dir="ltr">Moderate density</p></li>
+<li dir="ltr"><p dir="ltr">Lightweight</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">9" x 6" x 4" (23 cm x 15 cm x 10 cm)</p></li>
+<li dir="ltr"><p dir="ltr">6.7 oz (190 g)</p></li>
+<li dir="ltr"><p dir="ltr">100% EVA foam spray</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Spray with our Mat Cleanser, or a damp cloth with a mild/natural disinfectant (vinegar, mild soap)</p></li>
+<li dir="ltr"><p dir="ltr">Wipe and air dry before storage</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4&quot; Foam Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706256956</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>913675</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706256956</id>
+      <title>Ink</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>10037-0008</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706256956</id>
+      <title>Plum</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>10037-0009</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706453564</id>
+    <published>2021-05-19T13:06:59-07:00</published>
+    <updated>2021-05-19T13:06:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/cork-yoga-block"/>
+    <title>Cork Yoga Block</title>
+    <s:type>Cork Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/c57e345deab729f3cac811aa842dba41_2000x_4b0e536c-eb5e-402a-aebb-430ac703efea.jpg?v=1621455161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cork Blocks<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Natural Cork Yoga Block is made from sustainably harvested cork that provides comfort, stability, and support for your asana practice. Sturdy, strong, and built to last, these blocks can aid you in supporting ease or depths in any type of yoga.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Weighted for stability</p></li>
+<li dir="ltr"><p dir="ltr">Strong and supportive</p></li>
+<li dir="ltr"><p dir="ltr">Rounded ergonomic corners</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3.5” × 5.5” × 9” (9 cm × 14 cm × 23cm)</p></li>
+<li dir="ltr"><p dir="ltr">2.1 lbs (0.95 kg)</p></li>
+<li dir="ltr"><p dir="ltr">100% natural cork</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Option 1: Natural/non-aggressive spray (like our Mat Cleanser) and wipe to dry</p></li>
+<li dir="ltr"><p dir="ltr">Option 2: Sprinkle baking soda over the surface of the cork, place in a large freezer bag, place the bag in the freezer for 1-2 days. Unwrap and wipe down.</p></li>
+<li dir="ltr"><p dir="ltr">Always allow to air dry before storage</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cork Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706453564</id>
+      <title>Natural Cork</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>900196</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706388028</id>
+    <published>2021-05-19T13:06:59-07:00</published>
+    <updated>2021-05-19T13:06:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/chip-foam-yoga-block-cover"/>
+    <title>Chip Foam Yoga Block Cover</title>
+    <s:type>Foam Yoga Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/dhmWikzg_2000x_33560de9-4ebb-4daa-8aa6-68f9c3a332bd.jpg?v=1621455163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Foam Yoga Blocks<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Chip Foam Block Cover can be used to increase the longevity or change up the look of this highly versatile prop -- the Chip Foam Block! This easy to remove cover allows for easy cleaning.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Hook and loop cover closure</p></li>
+<li dir="ltr"><p dir="ltr">Shrink resistant microtech fabric</p></li>
+<li dir="ltr"><p dir="ltr">Easy to remove</p></li>
+<li dir="ltr"><p dir="ltr">Easy to clean</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Fits any 2" x 8" x 12" (5 cm x 20 cm x 30 cm) Chip Foam Yoga Block</p></li>
+<li dir="ltr"><p dir="ltr">Chip Foam Block <strong>NOT</strong> included</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted in India</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Close the hook and loop closure before washing</p></li>
+<li dir="ltr"><p dir="ltr">Machine wash in cold water</p></li>
+<li dir="ltr"><p dir="ltr">Tumble dry low or hang to dry</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chip Foam Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706388028</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>13473-0001</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706388028</id>
+      <title>Ink</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>13473-0011</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706388028</id>
+      <title>Plum</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>13473-0012</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708649020</id>
+    <published>2021-05-19T13:06:40-07:00</published>
+    <updated>2021-05-19T13:06:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/octagonal-cork-block"/>
+    <title>Octagonal Cork Block</title>
+    <s:type>Cork Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/TheOctagonalBlock1_2000x_c4b8057e-7013-4cf6-803c-e6eca86864f0.jpg?v=1627064477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Cork Blocks<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Find comfort, balance, and strength throughout your practice or flow with our Octagonal Cork Block. Designed for smooth transitions and weighted for stability, the block’s extra angles allow for easy and smooth pose transitions to enhance flow or restorative movements. Natural cork is a renewable resource, making this block good for your body and the environment. </p><p dir="ltr"><strong> </strong></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Weighted for stability</p></li>
+<li dir="ltr"><p dir="ltr">Ergonomically rounded angles</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">8.75” x 5.5” x 3.1”</p></li>
+<li dir="ltr"><p dir="ltr">100% natural cork </p></li>
+<li dir="ltr"><p dir="ltr">Made in China</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Clean the cork when/if needed</p></li>
+<li dir="ltr"><p dir="ltr">Use a wet cloth and allow to air dry</p></li>
+<li dir="ltr"><p dir="ltr">Do not soak in water and avoid direct sunlight</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cork Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708649020</id>
+      <title>Natural Cork</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>20184-0001</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709763132</id>
+    <published>2021-05-19T13:06:31-07:00</published>
+    <updated>2021-05-19T13:06:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/chip-foam-yoga-block-with-cover"/>
+    <title>Chip Foam Yoga Block with Cover</title>
+    <s:type>Foam Yoga Blocks</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Chip-Foam-Block-w-Cover---Charcoal__1000x1200_2000x_b4749e39-49ac-467d-8a51-9515491edd86.jpg?v=1626306892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Foam Yoga Blocks<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Chip Foam Block with Cover is one of our most versatile props. The interior foam insert is dense enough to offer solid support, yet soft enough to provide padding for knees, elbows, and hips. The cover is removable and washable to ensure a long and durable life for your chip foam block. Whether seated, standing, reclined, inverted or twisted, this block can bring comfort, depth, lift or support to any posture.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Hook and loop cover closure</p></li>
+<li dir="ltr"><p dir="ltr">Shrink resistant microtech fabric</p></li>
+<li dir="ltr"><p dir="ltr">Foam insert made from foam offcuts (colours may vary)</p></li>
+<li dir="ltr"><p dir="ltr">Moderate density for comfort and support</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">2" x 8" x 12" (5 cm x 20 cm x 30 cm)</p></li>
+<li dir="ltr"><p dir="ltr">1.3 lbs (0.6 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Fabric: 65% polyester/35% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted in India</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Close hook and loop closure before washing</p></li>
+<li dir="ltr"><p dir="ltr">Machine wash cover in cold water</p></li>
+<li dir="ltr"><p dir="ltr">Tumble dry low or hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Store foam away from UV light</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chip Foam Blocks</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709763132</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>13580-0001</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709763132</id>
+      <title>Ink</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>13580-0011</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+</feed>

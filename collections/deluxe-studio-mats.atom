@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/deluxe-studio-mats.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:32-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709632060</id>
+    <published>2021-05-19T13:06:32-07:00</published>
+    <updated>2021-05-19T13:06:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/deluxe-studio-mat"/>
+    <title>Deluxe Studio Mat</title>
+    <s:type>Classic Yoga Mats</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Halfmoon-Deluxe-Studio-Mat---Charcoal_logo__1000x1200_2000x_c6fe87b3-efea-46c3-b382-1bc974791967.jpg?v=1628141073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Classic Yoga Mats<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Deluxe Studio Mat is 6mm thick for an extra soft, comfortable, and gentle practice surface. Designed to provide yogis with generous cushioning for daily asana, the Deluxe Studio Mat is suitable for all styles and all levels of yoga, pilates, and conditioning, even when layered on hardwood or concrete floors.</p><p dir="ltr">The waffled surface is ideal for anything from gentle hatha yoga to an energetic vinyasa practice. Lightweight, easy to clean, and durable, this mat is perfect for daily use.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">6mm of cushioning</p></li>
+<li dir="ltr"><p dir="ltr">Latex-free</p></li>
+<li dir="ltr"><p dir="ltr">Moderate grip and durable</p></li>
+<li dir="ltr"><p dir="ltr">Easy to clean</p></li>
+<li dir="ltr"><p dir="ltr">Non-toxic PVC (6p free)</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">24" x 72" (61 cm x 183 cm)</p></li>
+<li dir="ltr"><p dir="ltr">3.3 lbs (1.5 kg)</p></li>
+<li dir="ltr"><p dir="ltr">6mm (1/4 inch) thick</p></li>
+<li dir="ltr"><p dir="ltr">100% non-toxic PVC (6P-free)</p></li>
+<li dir="ltr"><p dir="ltr">Made in Taiwan </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Before using your mat for the first time, clean it thoroughly, then repeat as needed</p></li>
+<li dir="ltr"><p dir="ltr">Spray with water or our Mat Cleanser and wipe with a sponge or cloth</p></li>
+<li dir="ltr"><p dir="ltr">Hang or lay flat to air dry before storage</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">To increase grip, give the mat a salt scrub with coarse salt, let sit, then wipe off with a damp cloth</p></li>
+<li dir="ltr"><p dir="ltr">Whenever you're done cleaning your mat, always lay flat or hang it to dry</p></li>
+<li dir="ltr"><p dir="ltr">Practice on the mat with the Halfmoon logo facing up</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deluxe Mats</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709632060</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>20114-0001</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709632060</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>20114-0004</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709632060</id>
+      <title>Ink</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>20114-0005</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709632060</id>
+      <title>Plum</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>20114-0006</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+</feed>

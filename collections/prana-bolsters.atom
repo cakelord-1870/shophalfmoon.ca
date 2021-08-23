@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/prana-bolsters.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:56-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576706781244</id>
+    <published>2021-05-19T13:06:56-07:00</published>
+    <updated>2021-05-19T13:06:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-prana-bolster"/>
+    <title>Essential Cotton Prana Bolster</title>
+    <s:type>Prana 26&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Prana-Bolster_Charcoal-upright-handle__1000x1200_2000x_d18d6981-dedf-42cb-a13c-2ae139fc5991.jpg?v=1621455129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Prana 26&quot;<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Prana Yoga Bolster was designed to facilitate deeper breathing and gentle openings. Its 26" length supports the entire spine, from the low back to the head. And the narrow width and gentle lift allow the chest to relax and open, increasing lung capacity and space across the chest. The perfect addition to your pranayama or asana practice.</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Handcrafted at Halfmoon in Burnaby</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3" x 7" x 26" (8 cm x 18 cm x 66 cm)</p></li>
+<li dir="ltr"><p dir="ltr">3 lbs (1.4 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% Cotton 3% Polyester. Natural cotton batting fill processed in BC, Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from bolster, machine wash cover in cool water on the delicate cycle, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Prana</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706781244</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>914616</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706781244</id>
+      <title>Ink</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>12133-0009</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576706781244</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>12133-0010</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707371068</id>
+    <published>2021-05-19T13:06:52-07:00</published>
+    <updated>2021-05-19T13:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-prana-bolster"/>
+    <title>Limited Edition Prana Bolster</title>
+    <s:type>Prana 26&quot;</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/PranaBolster26Fresco0468.jpg?v=1628141016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Prana 26&quot;<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Prana Yoga Bolster was designed to facilitate deeper breathing and gentle openings. Its 26" length supports the entire spine, from the low back to the head. And the narrow width and gentle lift allow the chest to relax and open, increasing lung capacity and space across the chest. The perfect addition to your pranayama or asana practice.</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection is a limited time offering showcasing Halfmoon's creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home or zen space. Reinvigorate life into your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Handcrafted at Halfmoon in Burnaby</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle makes it easy to take it with you</p></li>
+<li dir="ltr"><p dir="ltr">Exceptional quality &amp; durability </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">3" x 7" x 26" (8 cm x 18 cm x 66 cm)</p></li>
+<li dir="ltr"><p dir="ltr">3 lbs (1.4 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Casing: 100% cotton</p></li>
+<li dir="ltr"><p dir="ltr">Filling: 97% Cotton 3% Polyester. Natural cotton batting fill processed in BC, Polyurethane foam manufactured in BC</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Remove cover from bolster, machine wash cover in cool water on the delicate cycle, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex gloved hand or a lint roller</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">During manufacturing, we reinforce the handles on our bolsters to ensure a strong seam.</p></li>
+<li dir="ltr"><p dir="ltr">Ripped seams may occur or be exaggerated from friction either when removing it from storage or how the bolster is carried to and from practice. Take extra care and be mindful of the delicacy of the product.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Prana</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707371068</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>12134-0027</s:sku>
+      <s:grams>1678</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707371068</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>12134-0026</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+</feed>

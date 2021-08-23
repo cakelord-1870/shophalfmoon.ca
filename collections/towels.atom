@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/towels.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:35-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709238844</id>
+    <published>2021-05-19T13:06:35-07:00</published>
+    <updated>2021-05-19T13:06:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/wet-grip-mat-towel"/>
+    <title>Wet Grip Mat Towel</title>
+    <s:type>Synthetic Towels</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.WetGripMatTowel-Charcoal-web_2000x_1ae852b1-e227-4996-a5a5-bb920dcb3b9e.jpg?v=1621454948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Synthetic Towels<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Wet Grip Mat Towels are designed to absorb sweat and create a grippy surface so you can stay strong, secure, and stable in your asana practice. Perfectly sized for layering over your yoga mat. For the best grip, moisten the towel before use. </p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Soft hand feel</p></li>
+<li dir="ltr"><p dir="ltr">Quick drying</p></li>
+<li dir="ltr"><p dir="ltr">Optimal grip when wet</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">72 x 26.5” (183 x 67.3cm)</p></li>
+<li dir="ltr"><p dir="ltr">0.7 lbs</p></li>
+<li dir="ltr"><p dir="ltr">85% dacron, 15% nylon</p></li>
+<li dir="ltr"><p dir="ltr">Made in China</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Machine wash and hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Wash twice before using</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>NOTES</strong></p><ul><li dir="ltr"><p dir="ltr">Any shedding will decrease with use and washing</p></li></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Towels</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709238844</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>14043-0003</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709238844</id>
+      <title>Plum</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>14043-0005</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576709566524</id>
+    <published>2021-05-19T13:06:32-07:00</published>
+    <updated>2021-05-19T13:06:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/gripster-mat-towel"/>
+    <title>Gripster Mat Towel</title>
+    <s:type>Unclassified</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/GripsterMatTowelInkWash0474_1074dc2d-d96b-4494-8d4f-18e138f5ba29.jpg?v=1629130590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Unclassified<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Gripster Mat Towel is super absorbent and quick-drying. While the silicone gripster base allows the towel to stay secure on your mat with every updog and jump-through, the soft and wet-grip top keeps you strong, stable, and secure in every warrior II and sun salute no matter how sweaty.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Gripster base holds to your mat</p></li>
+<li dir="ltr"><p dir="ltr">Super Absorbent</p></li>
+<li dir="ltr"><p dir="ltr">Quick Drying</p></li>
+<li dir="ltr"><p dir="ltr">No-slip wet grip</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">72 x 26.5 inches (183 x 67.3cm)</p></li>
+<li dir="ltr"><p dir="ltr">Towel: 85% dacron, 15% nylon</p></li>
+<li dir="ltr"><p dir="ltr">Grips: 100% natural silicone</p></li>
+<li dir="ltr"><p dir="ltr">Made in China </p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Machine wash warm, hang to dry</p></li>
+<li dir="ltr"><p dir="ltr">Wash twice before use</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mat Towels</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709566524</id>
+      <title>Ink Wash</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>20148-0003</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709566524</id>
+      <title>Plum</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>20148-0002</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576709566524</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku>20148-0001</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+</feed>

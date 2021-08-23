@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shophalfmoon.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shophalfmoon.ca/collections/om-meditation-cushions.atom"/>
+  <title>Halfmoon Canada</title>
+  <updated>2021-05-19T13:06:52-07:00</updated>
+  <author>
+    <name>Halfmoon Canada</name>
+  </author>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707338300</id>
+    <published>2021-05-19T13:06:52-07:00</published>
+    <updated>2021-05-19T13:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/limited-edition-om-meditation-cushion"/>
+    <title>Limited Edition Om Meditation Cushion</title>
+    <s:type>Zafu</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/OmMeditationCushionFresco0507.jpg?v=1628141010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Zafu<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Om Meditation Cushion is designed to give a slight and gentle lift to your hips while seated. It is a travel-sized meditation cushion designed to join you on all your adventures and even doubles as a sleeping pillow when you are on-the-go. With its low height, this cushion is a day-to-day favourite for those with open hips.</p><p dir="ltr">TIP: for the best sitting posture, make sure your knees are lower than your hips.</p><p dir="ltr">This product is part of our Halfmoon Limited Edition Collection is a limited time offering showcasing Halfmoon's creative vision for that season. Carefully selecting patterns and prints allows us to bring to life modern, quality and current fabrics that will enhance and elevate your studio, home or zen space. Reinvigorate life into your meditation and yoga practice with these curated selections.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Small enough to travel</p></li>
+<li dir="ltr"><p dir="ltr">Perfect for those with flexible hips</p></li>
+<li dir="ltr"><p dir="ltr">Adjustable support for optimal sitting posture</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">16" x 10" x 2" (41 cm x 25.5 cm x 5 cm)</p></li>
+<li dir="ltr"><p dir="ltr">2.2 lbs (1.0 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% cotton </p></li>
+<li dir="ltr"><p dir="ltr">Filled with natural Canadian buckwheat hulls</p></li>
+<li dir="ltr"><p dir="ltr">Cushions are filled by volume. Due to the natural differences in buckwheat, weight may vary by + or 5%</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Unzip cover. Empty buckwheat hulls into container. Machine wash cover in cool water on the delicate cycle. Hang to dry. Refill.</p></li>
+<li dir="ltr"><p dir="ltr">Lint Removal Tip: wipe bolster with a latex gloved hand or a lint roller.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Limited Edition Om Cushions</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707338300</id>
+      <title>Fresco</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>10949-0035</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707338300</id>
+      <title>Solstice</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>10949-0034</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576707797052</id>
+    <published>2021-05-19T13:06:48-07:00</published>
+    <updated>2021-05-19T13:06:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/linen-om-meditation-cushion"/>
+    <title>Linen Om Meditation Cushion</title>
+    <s:type>Zafu</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/Om-Cushion_Natural-Linen-front-handle__1000x1200_2000x_235df6c3-6d55-41e8-ac5a-9b2050e13712.jpg?v=1621455054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Zafu<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Om Meditation Cushion is designed to give a slight and gentle lift to your hips while seated. It is a travel-sized meditation cushion designed to join you on all your adventures and doubles as a sleeping pillow when you are on-the-go. With its low height, this cushion is a day-to-day favourite for those with open hips.</p><p dir="ltr">TIP: for the best sitting posture, make sure your knees are lower than your hips.</p><p dir="ltr">This cushion is part of our Halfmoon Premium Linen Collection and is a premium, timeless, and earth-friendly option within our textile lineup. With an elevated, yet artisanal aesthetic, you can invest in this luxurious fabric option in good-conscience. The low levels of water used to grow the flax plants in creating these fibers, make it much more earth-friendly than alternative fibers on the market. Bonus: Our linens not only have a soft hand feel and cooling properties but are also biodegradable!</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Small enough to travel</p></li>
+<li dir="ltr"><p dir="ltr">Perfect for those with flexible hips</p></li>
+<li dir="ltr"><p dir="ltr">Adjustable support for optimal sitting posture</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">16" x 10" x 2" (41 cm x 25.5 cm x 5 cm)</p></li>
+<li dir="ltr"><p dir="ltr">2.2 lbs (1.0 kg)</p></li>
+<li dir="ltr"><p dir="ltr">Cover: 100% Linen Lining: 100% Cotton Filling: 100% Buckwheat hulls</p></li>
+<li dir="ltr"><p dir="ltr">Filled with natural buckwheat hulls</p></li>
+<li dir="ltr"><p dir="ltr">Cushions are filled by volume. Due to the natural differences in buckwheat, weight may vary by + or - 5%</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Unzip case and pour hulls into a bag. </p></li>
+<li dir="ltr"><p dir="ltr">Cold wash cover, hang to dry, refill.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Linen Om Cushions</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707797052</id>
+      <title>Natural Linen</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>10949-0023</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576707797052</id>
+      <title>Fig Linen</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>20163-0001</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shophalfmoon.ca/products/6576708911164</id>
+    <published>2021-05-19T13:06:38-07:00</published>
+    <updated>2021-05-19T13:06:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://shophalfmoon.ca/products/essential-cotton-om-meditation-cushion"/>
+    <title>Essential Cotton Om Meditation Cushion</title>
+    <s:type>Zafu</s:type>
+    <s:vendor>Halfmoon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0054/9489/8806/products/2020.OmMeditation.Ink_1000x1200_2000x_b8d23137-bbb6-40d2-a856-4b85ac8cd532.jpg?v=1621454983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halfmoon<br>
+        <strong>Type: </strong>Zafu<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">Our Om Meditation Cushion is designed to give a slight and gentle lift to your hips while seated. It is a travel-sized meditation cushion designed to join you on all your adventures and even doubles as a sleeping pillow when you are on-the-go. With its low height, this cushion is a day-to-day favourite for those with open hips.</p><p dir="ltr">TIP: for the best sitting posture, make sure your knees are lower than your hips.</p><p dir="ltr">This product is part of our Halfmoon Essential Cotton Collection and is made of 100% all-natural cotton fibers that resist shrinking, stretching, and are highly durable. This 100% natural plant-derived fiber is biodegradable, easy-to-clean, and breathable making it a perfect studio-friendly core item. The Essential Cotton Collection is all custom-dyed for Halfmoon specifically, making the colours exclusive to the Halfmoon lineup and core colour stories.</p><p dir="ltr"><br></p><p dir="ltr"><strong>FEATURES</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Small enough to travel</p></li>
+<li dir="ltr"><p dir="ltr">Perfect for those with flexible hips</p></li>
+<li dir="ltr"><p dir="ltr">Adjustable support for optimal sitting posture</p></li>
+<li dir="ltr"><p dir="ltr">Handy carry handle</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>SPECS</strong></p><ul>
+<li dir="ltr"><p dir="ltr">16" x 10" x 2" (41 cm x 25.5 cm x 5 cm)</p></li>
+<li dir="ltr"><p dir="ltr">2.2 lbs (1.0 kg)</p></li>
+<li dir="ltr"><p dir="ltr">100% cotton cover</p></li>
+<li dir="ltr"><p dir="ltr">Filled with natural buckwheat hulls</p></li>
+<li dir="ltr"><p dir="ltr">Cushions are filled by volume. Due to the natural differences in buckwheat, weight may vary by + or - 5%</p></li>
+<li dir="ltr"><p dir="ltr">Handcrafted just outside Vancouver, BC, Canada</p></li>
+</ul><p dir="ltr"><br></p><p dir="ltr"><strong>PRODUCT CARE</strong></p><ul>
+<li dir="ltr"><p dir="ltr">Unzip case and pour hulls into a bag. </p></li>
+<li dir="ltr"><p dir="ltr">Cold wash cover, hang to dry, refill.</p></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Om Cushions</s:tag>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708911164</id>
+      <title>Charcoal</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>914612</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708911164</id>
+      <title>Ink</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>10078-0008</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shophalfmoon.ca/products/6576708911164</id>
+      <title>Fossil Grey</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>10078-0009</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+</feed>
